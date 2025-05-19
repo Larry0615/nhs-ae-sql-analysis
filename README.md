@@ -30,7 +30,6 @@ The NHS is under pressure to meet operational targets, especially the 4-hour A&E
 
 1. **Data Collection & Cleaning**
    - Source: NHS England – A&E Attendances and Emergency Admissions
-   - Time frame: **March 2025** monthly dataset (provider level)
    - Cleaned raw `.xls` file in Excel and exported to `.csv`
 
 2. **SQL Table Setup & Data Loading**
