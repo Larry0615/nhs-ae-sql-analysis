@@ -2,74 +2,75 @@
 
 📌 **Project Overview**  
 This project analyzes monthly A&E (Accident & Emergency) activity and performance data from NHS England.  
-The goal is to uncover patterns in hospital attendances, wait times, and emergency admissions using SQL-based analysis, and to communicate insights through a Tableau dashboard.
+The goal is to uncover patterns in hospital attendances, wait times, and emergency admissions using SQL-based analysis — and communicate insights through an interactive Tableau dashboard. This project reflects real-world, public-sector analytics with a UK health system focus.
 
 ---
 
 🔍 **Business Problem**  
-The NHS is under pressure to meet operational targets, particularly the 4-hour A&E wait time standard. This project aims to answer:
+The NHS is under pressure to meet operational targets, especially the 4-hour A&E wait time standard. This project aims to address:
 
 📈 How have A&E attendances changed over time?  
 ⏱️ How well are hospitals performing against the 4-hour target?  
 📍 Which NHS providers or regions perform best or worst?  
-❄️ Are there seasonal patterns in admissions or waiting times?  
-🏥 Which providers are under the most pressure based on volume?
+❄️ Are there seasonal patterns in attendances or admissions?  
+🏥 Which providers experience the greatest pressure?
 
 ---
 
 🛠️ **Tools & Technologies**  
-- PostgreSQL (SQL querying and data analysis)  
-- DBeaver (SQL client and database management)  
-- Excel (initial data cleanup)  
-- Tableau (dashboard development)  
-- Git & GitHub (version control and portfolio hosting)
+- PostgreSQL – for data storage and SQL analysis  
+- DBeaver – SQL client for writing and managing queries  
+- Excel – for initial data cleaning and CSV conversion  
+- Tableau – for interactive dashboards and data storytelling  
+- Git & GitHub – for version control and project sharing
 
 ---
 
-📊 **Project Workflow**  
+📊 **Project Workflow**
+
 1. **Data Collection & Cleaning**
-   - Source: NHS England — A&E Attendances & Emergency Admissions (Provider Level)
-   - File: March 2025 monthly `.xls` report
-   - Cleaned in Excel and saved as `.csv`
+   - Source: NHS England – A&E Attendances and Emergency Admissions
+   - Time frame: **March 2025** monthly dataset (provider level)
+   - Cleaned raw `.xls` file in Excel and exported to `.csv`
 
 2. **SQL Table Setup & Data Loading**
-   - Created schema in PostgreSQL
-   - Imported cleaned `.csv` using DBeaver
+   - Created a table schema in PostgreSQL
+   - Imported cleaned dataset using DBeaver
 
 3. **SQL Analysis**
-   - Attendance trends by month and region
-   - Performance against 4-hour targets
-   - Hospital-level ranking by volume and delays
-   - Seasonality and winter surge detection
+   - Monthly A&E attendances by provider
+   - Performance trends against 4-hour target
+   - Identification of top/bottom performing hospitals
+   - Exploration of seasonal and regional trends
 
-4. **Data Visualization**
-   - Tableau dashboard to showcase:
-     - Provider performance
-     - Attendance and wait time trends
-     - Regional comparisons
+4. **Dashboard Development**
+   - Designed an interactive Tableau dashboard
+   - Integrated SQL summaries into visual narratives
+   - Dashboard includes filters for region, provider, and key KPIs
 
 ---
 
 🔗 **Data Source**  
 [NHS England A&E Statistics](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)  
-Provider-level monthly reports showing attendances, 4-hour waits, and admissions across NHS trusts in England.
+📅 **Time Frame:** March 2025  
+(Provider-level performance metrics for all NHS trusts in England)
 
 ---
 
 📈 **Key Findings** *(to be added after analysis)*  
-🗓️ Monthly A&E attendance trends  
-⚠️ Providers missing the 95% 4-hour target  
-📍 Regional outliers in performance  
-❄️ Winter surge impact analysis  
-📊 Provider clustering based on volume and compliance
+🗓️ Trends in A&E attendances and delays  
+⚠️ Top trusts consistently missing 4-hour target  
+📍 Regional performance variations  
+❄️ Winter pressures and monthly spikes  
+🏥 Volume-to-performance comparison across providers
 
 ---
 
-📢 **Public Sector Recommendations** *(to be updated)*  
-🚑 Target underperforming trusts for support  
-📉 Analyze the root causes of >4hr waits  
-📆 Use monthly patterns for staffing/resource planning  
-🏥 Identify best practices from top-performing trusts
+📢 **Public Sector Recommendations** *(to be added)*  
+🚑 Prioritize support for high-volume, underperforming trusts  
+📉 Investigate systemic causes of long wait times  
+📆 Use temporal insights to adjust seasonal staffing  
+📍 Learn from high-performing trusts and regions
 
 ---
 
@@ -77,20 +78,20 @@ Provider-level monthly reports showing attendances, 4-hour waits, and admissions
 ```
 nhs-ae-sql-analysis/
 ├── data/
-│ ├── raw/
-│ │ └── march_2025_ae_raw.xls     # Original NHS files (.xls)
-│ └── clean/
-│ └── march_2025_ae_cleaned.csv   # Cleaned version (.csv)
+│ ├── raw/      # Original NHS files (.xls)
+│ │ └── march_2025_ae_raw.xls
+│ └── processed/         # Cleaned version for import (.csv)
+│   └── march_2025_ae_cleaned.csv
 │
-├── sql/                          # SQL scripts (schema, analysis, insights)
-│ ├── create_table.sql            
-│ └── analysis_queries.sql        
+├── sql/         # SQL scripts (schema, analysis, insights)
+│ ├── create_table.sql
+│ └── analysis_queries.sql
 │
-├── visuals/                      # Static exported charts
-│ └── (charts to be added)
+├── visuals/         # Static exported charts or figures
+│ └── (exported static charts)
 │
-├── dashboard/
-│ └── nhs_ae_dashboard.twbx       # Tableau workbook or BI dashboards
+├── dashboard/         # Tableau workbook or BI dashboards
+│ └── nhs_ae_dashboard.twbx
 │
 └── README.md
 ```
@@ -98,13 +99,13 @@ nhs-ae-sql-analysis/
 ---
 
 🚀 **Future Work**
-- ✅ Build interactive Tableau dashboard  
-- 🔁 Automate cleaning and import process (optional)  
-- 🗺️ Add geospatial visualizations using provider location (optional)  
-- 📈 Incorporate more months or years of NHS A&E data
+- Expand analysis across multiple months or years  
+- Automate SQL transformations and dashboard refresh  
+- Add geospatial mapping of provider locations  
+- Integrate anomaly detection for outlier wait times
 
 ---
 
-📬 **Let’s connect**  
-Want to collaborate or give feedback?  
-📍 See more of my work at: [github.com/Larry0615](https://github.com/Larry0615)
+📬 **Let’s Connect**  
+Interested in collaborating or giving feedback?  
+🔗 Explore more projects at: [github.com/Larry0615](https://github.com/Larry0615)
