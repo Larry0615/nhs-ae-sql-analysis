@@ -77,19 +77,19 @@ The NHS is under pressure to meet operational targets, especially the 4-hour A&E
 ```
 nhs-ae-sql-analysis/
 ├── data/
-│ ├── raw/      # Original NHS files (.xls)
+│ ├── raw/                        # Original NHS files (.xls)
 │ │ └── march_2025_ae_raw.xls
-│ └── processed/         # Cleaned version for import (.csv)
+│ └── processed/                  # Cleaned version for import (.csv)
 │   └── march_2025_ae_cleaned.csv
 │
-├── sql/         # SQL scripts (schema, analysis, insights)
+├── sql/                          # SQL scripts (schema, analysis, insights)
 │ ├── create_table.sql
 │ └── analysis_queries.sql
 │
-├── visuals/         # Static exported charts or figures
+├── visuals/                      # Static exported charts or figures
 │ └── (exported static charts)
 │
-├── dashboard/         # Tableau workbook or BI dashboards
+├── dashboard/                    # Tableau workbook or BI dashboards
 │ └── nhs_ae_dashboard.twbx
 │
 └── README.md
