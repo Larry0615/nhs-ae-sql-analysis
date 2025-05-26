@@ -115,15 +115,15 @@ nhs-ae-sql-analysis/
 │       └── march_2025_ae_cleaned.csv
 │
 ├── sql/
-│   ├── create_table.sql
 │   └── analysis_queries.sql
+│   
 │
 ├── dashboard/
 │   ├── nhs_ae_dashboard.twbx
 │   └── ae_sql_insights.csv
 │
 ├── visuals/
-│   └── dashboard_preview.png  ← (screenshot)
+│   └── dashboard_preview.png  ← (screenshots)
 │
 └── README.md
 ```
