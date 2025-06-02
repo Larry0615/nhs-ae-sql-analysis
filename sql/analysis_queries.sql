@@ -16,7 +16,8 @@ create table nhs_ae_data(
 );
 
 -- ** Quick view of the data **
-select * from nhs_ae_data limit 10;
+select * from nhs_ae_data limit 10
+;
 
 -- ** Count the total number of rows **
 select count(*) as total_rows from nhs_ae_data;

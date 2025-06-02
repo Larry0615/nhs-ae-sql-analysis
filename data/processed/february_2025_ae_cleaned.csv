@@ -1,0 +1,199 @@
+month,provider_code,provider_name,type1_attendances,type2_attendances,type3_attendances,type23_attendances,total_attendances,over_4hr_waits,pct_within_4hrs,admissions
+01/02/2025,RC9,Bedfordshire Hospitals NHS Foundation Trust,"14,688",0,"8,999","8,999","23,687","6,486",72.6,"4,304"
+01/02/2025,RGT,Cambridge University Hospitals NHS Foundation Trust,"9,923",0,"5,529","5,529","15,452","4,825",68.8,"2,434"
+01/02/2025,RWH,East And North Hertfordshire NHS Trust,"8,035",0,"6,880","6,880","14,915","4,605",69.1,"2,498"
+01/02/2025,RDE,East Suffolk And North Essex NHS Foundation Trust,"12,248",0,"14,066","14,066","26,314","6,448",75.5,"6,214"
+01/02/2025,RY4,Hertfordshire Community NHS Trust,0,0,"1,019","1,019","1,019",15,98.5,0
+01/02/2025,DT301,Herts Urgent Care (Ascots Lane),0,0,"1,895","1,895","1,895",52,97.3,0
+01/02/2025,RGP,James Paget University Hospitals NHS Foundation Trust,"6,286",0,"1,389","1,389","7,675","2,714",64.6,"1,459"
+01/02/2025,RAJ,Mid And South Essex NHS Foundation Trust,"26,920",0,"3,566","3,566","30,486","9,968",67.3,"8,076"
+01/02/2025,RD8,Milton Keynes University Hospital NHS Foundation Trust,"8,073",0,"4,805","4,805","12,878","3,415",73.5,"2,153"
+01/02/2025,RM1,Norfolk And Norwich University Hospitals NHS Foundation Trust,"10,792",0,"7,401","7,401","18,193","3,503",80.7,"2,292"
+01/02/2025,RGN,North West Anglia NHS Foundation Trust,"13,531",0,"4,376","4,376","17,907","6,021",66.4,"3,339"
+01/02/2025,Y02428,Putnoe Walk In Centre,0,0,"3,152","3,152","3,152",0,100,0
+01/02/2025,RQW,The Princess Alexandra Hospital NHS Trust,"7,328",0,"2,583","2,583","9,911","3,762",62,"1,587"
+01/02/2025,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","6,037",0,"1,069","1,069","7,106","2,929",58.8,"2,108"
+01/02/2025,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"7,727",0,"7,263","7,263","14,990","3,024",79.8,"3,978"
+01/02/2025,RGR,West Suffolk NHS Foundation Trust,"6,728",0,653,653,"7,381","2,428",67.1,"1,557"
+01/02/2025,G0Q0L,Barking Hospital Utc,0,0,"2,673","2,673","2,673",13,99.5,0
+01/02/2025,RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust","12,433","2,272","13,441","15,713","28,146","6,526",76.8,"7,312"
+01/02/2025,R1H,Barts Health NHS Trust,"22,906",837,"16,926","17,763","40,669","12,180",70.1,"4,143"
+01/02/2025,AD913,Beckenham Beacon Ucc,0,0,"3,574","3,574","3,574",96,97.3,0
+01/02/2025,RYX,Central London Community Healthcare NHS Trust,0,0,"11,689","11,689","11,689",264,97.7,0
+01/02/2025,RQM,Chelsea And Westminster Hospital NHS Foundation Trust,"18,231",0,"5,691","5,691","23,922","6,194",74.1,"2,563"
+01/02/2025,RJ6,Croydon Health Services NHS Trust,"11,931",0,"4,589","4,589","16,520","4,204",74.6,"1,139"
+01/02/2025,RVR,Epsom And St Helier University Hospitals NHS Trust,"10,156",356,"1,265","1,621","11,777","3,135",73.4,"1,797"
+01/02/2025,RJ1,Guy's And St Thomas' NHS Foundation Trust,"9,085",702,"6,171","6,873","15,958","3,727",76.6,"1,883"
+01/02/2025,K6K0R,Harold Wood Polyclinic Utc,0,0,"2,654","2,654","2,654",7,99.7,0
+01/02/2025,RQX,Homerton Healthcare NHS Foundation Trust,"10,056",0,0,0,"10,056","2,077",79.3,"1,660"
+01/02/2025,RYJ,Imperial College Healthcare NHS Trust,"11,067","3,367","6,900","10,267","21,334","5,382",74.8,"3,265"
+01/02/2025,RJZ,King's College Hospital NHS Foundation Trust,"14,163",0,"9,273","9,273","23,436","6,828",70.9,"3,307"
+01/02/2025,RAX,Kingston And Richmond NHS Foundation Trust,"6,478",0,"7,589","7,589","14,067","3,313",76.4,"2,343"
+01/02/2025,RJ2,Lewisham And Greenwich NHS Trust,"12,884",0,"10,368","10,368","23,252","7,968",65.7,"4,406"
+01/02/2025,R1K,London North West University Healthcare NHS Trust,"12,788",0,"13,626","13,626","26,414","6,895",73.9,"5,893"
+01/02/2025,RP6,Moorfields Eye Hospital NHS Foundation Trust,0,"5,007",0,"5,007","5,007",65,98.7,0
+01/02/2025,RAT,North East London NHS Foundation Trust,0,0,"1,349","1,349","1,349",37,97.3,0
+01/02/2025,RAL,Royal Free London NHS Foundation Trust,"23,359",456,"14,710","15,166","38,525","10,299",73.3,"4,305"
+01/02/2025,RAN,Royal National Orthopaedic Hospital NHS Trust,0,0,0,0,0,0,,0
+01/02/2025,RJ7,St George's University Hospitals NHS Foundation Trust,"8,557",0,"2,886","2,886","11,443","2,189",80.9,"2,380"
+01/02/2025,RAS,The Hillingdon Hospitals NHS Foundation Trust,"5,687",0,"5,922","5,922","11,609","3,298",71.6,"1,715"
+01/02/2025,Y03218,The Pinn Unregistered Wic,0,0,695,695,695,0,100,0
+01/02/2025,RRV,University College London Hospitals NHS Foundation Trust,"12,348",0,0,0,"12,348","3,195",74.1,"1,231"
+01/02/2025,Y02147,Urgent Care Centre (Qms),0,0,"7,981","7,981","7,981",118,98.5,0
+01/02/2025,RKE,Whittington Health NHS Trust,"8,215",0,0,0,"8,215","2,725",66.8,"1,055"
+01/02/2025,NL7,Assura Vertis Urgent Care Centres (Birmingham),0,0,"3,811","3,811","3,811",0,100,0
+01/02/2025,8J094,Badger Ltd,0,0,"1,300","1,300","1,300",0,100,0
+01/02/2025,RQ3,Birmingham Women's And Children's NHS Foundation Trust,"4,700",0,0,0,"4,700",982,79.1,979
+01/02/2025,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"6,330",0,"5,650","5,650","11,980","3,477",71,"2,699"
+01/02/2025,RYG,Coventry And Warwickshire Partnership NHS Trust,0,0,0,0,0,0,,3
+01/02/2025,RY8,Derbyshire Community Health Services NHS Foundation Trust,0,0,"7,816","7,816","7,816",71,99.1,0
+01/02/2025,NNJ,Dhu Health Care C.I.C,0,0,"1,821","1,821","1,821",1,99.9,0
+01/02/2025,Y03007,Erdington GP Health & Wellbeing Wic,0,0,"1,637","1,637","1,637",0,100,0
+01/02/2025,RLT,George Eliot Hospital NHS Trust,"6,292",0,"1,466","1,466","7,758","2,358",69.6,982
+01/02/2025,RNQ,Kettering General Hospital NHS Foundation Trust,"9,253",0,"7,965","7,965","17,218","3,596",79.1,"1,724"
+01/02/2025,C82038,Latham House Medical Practice,0,0,278,278,278,0,100,0
+01/02/2025,RY5,Lincolnshire Community Health Services NHS Trust,0,0,"7,310","7,310","7,310",168,97.7,0
+01/02/2025,NNJ0H,Llr Ea - The Merlyn Vaz Health & Social Care Centre,0,0,"2,142","2,142","2,142",1,100,0
+01/02/2025,NNJ07,Loughborough Urgent Care Centre,0,0,"7,290","7,290","7,290",32,99.6,0
+01/02/2025,NNJ12,Market Harborough,0,0,578,578,578,0,100,0
+01/02/2025,C82009,Market Harborough Med.Ctr,0,0,281,281,281,0,100,0
+01/02/2025,NNJ13,Melton Mowbray,0,0,459,459,459,0,100,0
+01/02/2025,RNS,Northampton General Hospital NHS Trust,"9,133",515,"2,333","2,848","11,981","4,023",66.4,"2,110"
+01/02/2025,NR3,Nottingham Citycare Partnership,0,0,"5,411","5,411","5,411",483,91.1,0
+01/02/2025,RX1,Nottingham University Hospitals NHS Trust,"14,519","1,625",882,"2,507","17,026","8,014",52.9,"4,242"
+01/02/2025,NNJ14,Oadby,0,0,"3,452","3,452","3,452",2,99.9,0
+01/02/2025,NNJ15,Oakham,0,0,413,413,413,0,100,0
+01/02/2025,RXK,Sandwell And West Birmingham Hospitals NHS Trust,"10,630","1,051","7,976","9,027","19,657","5,007",74.5,"2,253"
+01/02/2025,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"9,867",0,"5,335","5,335","15,202","4,842",68.1,"3,531"
+01/02/2025,R1D,Shropshire Community Health NHS Trust,0,0,"2,653","2,653","2,653",0,100,0
+01/02/2025,C83023,Sleaford Medical Group,0,0,490,490,490,0,100,0
+01/02/2025,Y02615,South Birmingham GP Walk In Centre,0,0,"6,625","6,625","6,625",0,100,0
+01/02/2025,RJC,South Warwickshire University NHS Foundation Trust,"7,206",0,337,337,"7,543","2,448",67.5,"2,053"
+01/02/2025,NQTE4,Summerfield Urgent Care Centre,0,0,"2,969","2,969","2,969",0,100,0
+01/02/2025,RNA,The Dudley Group NHS Foundation Trust,"8,415",0,"4,713","4,713","13,128","2,794",78.7,"3,464"
+01/02/2025,RL1,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,0,0,0,0,0,0,,0
+01/02/2025,RL4,The Royal Wolverhampton NHS Trust,"11,364",0,"8,414","8,414","19,778","3,577",81.9,"5,182"
+01/02/2025,RXW,The Shrewsbury And Telford Hospital NHS Trust,"9,128",0,"2,405","2,405","11,533","5,468",52.6,"2,898"
+01/02/2025,RWD,United Lincolnshire Teaching Hospitals NHS Trust,"14,759",0,"3,331","3,331","18,090","6,637",63.3,"4,170"
+01/02/2025,RRK,University Hospitals Birmingham NHS Foundation Trust,"31,058",282,"1,801","2,083","33,141","12,587",62,"9,332"
+01/02/2025,RKB,University Hospitals Coventry And Warwickshire NHS Trust,"10,786","1,500","5,717","7,217","18,003","5,752",68,"1,680"
+01/02/2025,RTG,University Hospitals Of Derby And Burton NHS Foundation Trust,"18,262",0,"8,367","8,367","26,629","8,324",68.7,"3,738"
+01/02/2025,RWE,University Hospitals Of Leicester NHS Trust,"19,778","1,807",0,"1,807","21,585","8,464",60.8,"5,808"
+01/02/2025,RJE,University Hospitals Of North Midlands NHS Trust,"13,122",478,"8,258","8,736","21,858","7,699",64.8,"4,837"
+01/02/2025,RBK,Walsall Healthcare NHS Trust,"8,291",0,"4,135","4,135","12,426","3,328",73.2,"3,483"
+01/02/2025,RWP,Worcestershire Acute Hospitals NHS Trust,"11,492",0,"4,772","4,772","16,264","5,503",66.2,"2,289"
+01/02/2025,RLQ,Wye Valley NHS Trust,"5,368","1,036",86,"1,122","6,490","2,214",65.9,"1,304"
+01/02/2025,RCF,Airedale NHS Foundation Trust,"5,645",217,0,217,"5,862","2,298",60.8,"1,442"
+01/02/2025,RFF,Barnsley Hospital NHS Foundation Trust,"7,895",0,0,0,"7,895","3,573",54.7,"2,644"
+01/02/2025,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"8,651",881,"2,733","3,614","12,265","2,193",82.1,"2,329"
+01/02/2025,NNF09,Bransholme Health Centre,0,0,"3,281","3,281","3,281",403,87.7,0
+01/02/2025,NNF16,Bridlington Hospital,0,0,"1,248","1,248","1,248",18,98.6,0
+01/02/2025,RWY,Calderdale And Huddersfield NHS Foundation Trust,"14,096",0,0,0,"14,096","4,471",68.3,"2,486"
+01/02/2025,RXP,County Durham And Darlington NHS Foundation Trust,"11,724",0,"10,751","10,751","22,475","4,853",78.4,"4,006"
+01/02/2025,RP5,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,"12,394",0,"3,649","3,649","16,043","4,430",72.4,"3,713"
+01/02/2025,NNF94,East Riding Community Hospital,0,0,"2,515","2,515","2,515",221,91.2,0
+01/02/2025,RR7,Gateshead Health NHS Foundation Trust,"5,264",0,"3,143","3,143","8,407","2,223",73.6,"1,453"
+01/02/2025,NNFA7,Goole & District Hospital,0,0,"1,361","1,361","1,361",10,99.3,0
+01/02/2025,RCD,Harrogate And District NHS Foundation Trust,"4,725",0,808,808,"5,533","1,445",73.9,"1,026"
+01/02/2025,RWA,Hull University Teaching Hospitals NHS Trust,"8,151",0,"4,608","4,608","12,759","5,387",57.8,"3,249"
+01/02/2025,RV9,Humber Teaching NHS Foundation Trust,0,0,998,998,998,0,100,0
+01/02/2025,RR8,Leeds Teaching Hospitals NHS Trust,"16,148",660,"11,286","11,946","28,094","7,582",73,"3,376"
+01/02/2025,ARN03,Local Care Direct,0,0,"2,323","2,323","2,323",9,99.6,0
+01/02/2025,RXF,Mid Yorkshire Teaching NHS Trust,"14,924",119,"5,296","5,415","20,339","6,864",66.3,"3,294"
+01/02/2025,RNN,North Cumbria Integrated Care NHS Foundation Trust,"8,088",0,"1,657","1,657","9,745","3,791",61.1,"2,205"
+01/02/2025,RVW,North Tees And Hartlepool NHS Foundation Trust,"4,546",0,"10,231","10,231","14,777","2,143",85.5,"1,989"
+01/02/2025,RJL,Northern Lincolnshire And Goole NHS Foundation Trust,"8,126",0,"6,677","6,677","14,803","4,277",71.1,"5,129"
+01/02/2025,RTF,Northumbria Healthcare NHS Foundation Trust,"8,770",0,"10,454","10,454","19,224","2,773",85.6,"3,512"
+01/02/2025,RCU,Sheffield Children's NHS Foundation Trust,"4,164",0,481,481,"4,645",375,91.9,984
+01/02/2025,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"8,293","1,110","7,817","8,927","17,220","4,703",72.7,"3,372"
+01/02/2025,RTR,South Tees Hospitals NHS Foundation Trust,"6,667",0,"9,558","9,558","16,225","3,992",75.4,"2,526"
+01/02/2025,R0B,South Tyneside And Sunderland NHS Foundation Trust,"10,716","1,135","6,359","7,494","18,210","5,831",68,"3,896"
+01/02/2025,RXG,South West Yorkshire Partnership NHS Foundation Trust,0,0,0,0,0,0,,0
+01/02/2025,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"11,293","1,530","5,945","7,475","18,768","4,364",76.7,"3,432"
+01/02/2025,RFR,The Rotherham NHS Foundation Trust,"8,181",0,0,0,"8,181","2,971",63.7,"1,742"
+01/02/2025,AJN,Workington Health Limited,0,0,279,279,279,0,100,0
+01/02/2025,RCB,York And Scarborough Teaching Hospitals NHS Foundation Trust,"9,502",321,"6,536","6,857","16,359","5,536",66.2,"4,251"
+01/02/2025,RBS,Alder Hey Children's NHS Foundation Trust,"5,570",0,0,0,"5,570","1,182",78.8,816
+01/02/2025,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"8,161",0,"10,176","10,176","18,337","3,861",78.9,"2,405"
+01/02/2025,RMC,Bolton NHS Foundation Trust,"7,374",0,"3,286","3,286","10,660","3,868",63.7,"2,380"
+01/02/2025,RY2,Bridgewater Community Healthcare NHS Foundation Trust,0,0,"2,857","2,857","2,857",162,94.3,0
+01/02/2025,RJR,Countess Of Chester Hospital NHS Foundation Trust,"4,540",0,"1,979","1,979","6,519","2,485",61.9,"1,613"
+01/02/2025,RJN,East Cheshire NHS Trust,"3,912",0,66,66,"3,978","1,970",50.5,749
+01/02/2025,RXR,East Lancashire Hospitals NHS Trust,"11,973",0,"9,497","9,497","21,470","4,945",77,"3,636"
+01/02/2025,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"10,708",0,"3,216","3,216","13,924","4,470",67.9,"2,184"
+01/02/2025,RBQ,Liverpool Heart And Chest Hospital NHS Foundation Trust,0,0,0,0,0,0,,0
+01/02/2025,REM,Liverpool University Hospitals NHS Foundation Trust,"14,442","1,623","7,572","9,195","23,637","7,310",69.1,"4,155"
+01/02/2025,REP,Liverpool Women's NHS Foundation Trust,0,"1,530",0,"1,530","1,530",178,88.4,97
+01/02/2025,R0A,Manchester University NHS Foundation Trust,"25,755","3,203","11,173","14,376","40,131","12,242",69.5,"5,322"
+01/02/2025,RBN,Mersey And West Lancashire Teaching Hospitals NHS Trust,"15,726",0,"6,647","6,647","22,373","5,747",74.3,"7,357"
+01/02/2025,RW4,Mersey Care NHS Foundation Trust,0,0,"13,023","13,023","13,023",273,97.9,0
+01/02/2025,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"6,236",0,"2,671","2,671","8,907","3,642",59.1,"1,995"
+01/02/2025,Y02532,Miriam Minor Emergency,0,0,"1,561","1,561","1,561",0,100,0
+01/02/2025,RM3,Northern Care Alliance NHS Foundation Trust,"22,781",0,"8,419","8,419","31,200","10,304",67,"6,880"
+01/02/2025,NV693,Rossendale Miu & Ooh,0,0,866,866,866,1,99.9,0
+01/02/2025,NQT5F,Skelmersdale Walk In Centre,0,0,"1,730","1,730","1,730",6,99.7,0
+01/02/2025,RWJ,Stockport NHS Foundation Trust,"7,148",0,"1,035","1,035","8,183","2,499",69.5,"2,586"
+01/02/2025,RMP,Tameside And Glossop Integrated Care NHS Foundation Trust,"7,988",0,"2,924","2,924","10,912","3,593",67.1,"1,470"
+01/02/2025,RBV,The Christie NHS Foundation Trust,0,0,0,0,0,0,,0
+01/02/2025,RET,The Walton Centre NHS Foundation Trust,0,0,0,0,0,0,,0
+01/02/2025,RTX,University Hospitals Of Morecambe Bay NHS Foundation Trust,"8,177",0,"3,739","3,739","11,916","2,817",76.4,"2,923"
+01/02/2025,RWW,Warrington And Halton Teaching Hospitals NHS Foundation Trust,"6,372",0,"2,747","2,747","9,119","3,427",62.4,"1,542"
+01/02/2025,RY7,Wirral Community Health And Care NHS Foundation Trust,0,0,"3,965","3,965","3,965",191,95.2,0
+01/02/2025,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"6,626",0,"3,002","3,002","9,628","3,706",61.5,"1,781"
+01/02/2025,RRF,"Wrightington, Wigan And Leigh NHS Foundation Trust","6,655",0,"4,556","4,556","11,211","3,615",67.8,"1,981"
+01/02/2025,RTK,Ashford And St Peter's Hospitals NHS Foundation Trust,"9,225",0,0,0,"9,225","3,070",66.7,"2,499"
+01/02/2025,NTV0B,Ashford Walk-In-Centre,0,0,"2,144","2,144","2,144",93,95.7,0
+01/02/2025,RWX,Berkshire Healthcare NHS Foundation Trust,0,0,"1,173","1,173","1,173",9,99.2,23
+01/02/2025,Y02676,Brighton Station Health Centre,0,0,"1,819","1,819","1,819",0,100,0
+01/02/2025,RXQ,Buckinghamshire Healthcare NHS Trust,"9,887","1,090","3,215","4,305","14,192","3,096",78.2,"4,660"
+01/02/2025,RN7,Dartford And Gravesham NHS Trust,"10,568",0,"3,847","3,847","14,415","3,520",75.6,"3,014"
+01/02/2025,Y00751,East Berks Primary Care Ooh(Wam),0,0,0,0,0,0,,0
+01/02/2025,RVV,East Kent Hospitals University NHS Foundation Trust,"11,788",0,"11,781","11,781","23,569","6,319",73.2,"3,078"
+01/02/2025,RXC,East Sussex Healthcare NHS Trust,"8,773",0,"3,887","3,887","12,660","3,530",72.1,"2,799"
+01/02/2025,NDJ,First Community Health And Care Cic,0,0,"1,941","1,941","1,941",0,100,0
+01/02/2025,RDU,Frimley Health NHS Foundation Trust,"19,788",936,"11,742","12,678","32,466","9,051",72.1,"5,632"
+01/02/2025,RW1,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,0,0,"2,518","2,518","2,518",37,98.5,0
+01/02/2025,RN5,Hampshire Hospitals NHS Foundation Trust,"9,858",86,"2,765","2,851","12,709","4,415",65.3,"3,980"
+01/02/2025,R1F,Isle Of Wight NHS Trust,"4,158",318,"1,293","1,611","5,769","1,686",70.8,"1,161"
+01/02/2025,RYY,Kent Community Health NHS Foundation Trust,0,0,"8,561","8,561","8,561",43,99.5,0
+01/02/2025,RWF,Maidstone And Tunbridge Wells NHS Trust,"17,683",0,"2,205","2,205","19,888","3,476",82.5,"4,950"
+01/02/2025,RPA,Medway NHS Foundation Trust,"7,971",0,"7,341","7,341","15,312","3,437",77.6,"1,577"
+01/02/2025,RNU,Oxford Health NHS Foundation Trust,0,0,"3,103","3,103","3,103",270,91.3,0
+01/02/2025,RTH,Oxford University Hospitals NHS Foundation Trust,"12,741","1,621","2,228","3,849","16,590","4,851",70.8,"4,053"
+01/02/2025,AQN04,Phl Lymington Utc,0,0,"2,559","2,559","2,559",1,100,0
+01/02/2025,RHU,Portsmouth Hospitals University National Health Service Trust,"11,079",850,"3,368","4,218","15,297","4,808",68.6,"2,887"
+01/02/2025,NTP11,Practice Plus Group Hospital - Southampton,0,0,"4,752","4,752","4,752",260,94.5,0
+01/02/2025,NTPAD,Practice Plus Group Surgical Centre - St Marys Portsmouth,0,0,"5,253","5,253","5,253",115,97.8,0
+01/02/2025,RPC,Queen Victoria Hospital NHS Foundation Trust,0,0,"1,197","1,197","1,197",6,99.5,3
+01/02/2025,Y07709,Reading Urgent Care Centre,0,0,"1,843","1,843","1,843",0,100,0
+01/02/2025,RHW,Royal Berkshire NHS Foundation Trust,"10,312","2,279","2,057","4,336","14,648","4,062",72.3,"2,193"
+01/02/2025,RA2,Royal Surrey County Hospital NHS Foundation Trust,"6,905",0,"1,262","1,262","8,167","2,037",75.1,"2,342"
+01/02/2025,NQT51,Station Plaza Health Centre,0,0,"1,079","1,079","1,079",0,100,0
+01/02/2025,RTP,Surrey And Sussex Healthcare NHS Trust,"9,094",0,0,0,"9,094","3,108",65.8,"2,785"
+01/02/2025,RDR,Sussex Community NHS Foundation Trust,0,0,"10,491","10,491","10,491",101,99,0
+01/02/2025,RHM,University Hospital Southampton NHS Foundation Trust,"11,083","1,122",0,"1,122","12,205","5,196",57.4,"3,585"
+01/02/2025,RYR,University Hospitals Sussex NHS Foundation Trust,"25,089","1,239","1,860","3,099","28,188","9,717",65.5,"7,814"
+01/02/2025,ACH01,Whitstable Medical Practice,0,0,"4,995","4,995","4,995",0,100,0
+01/02/2025,NTV0W,Woking Walk In Centre,0,0,"2,412","2,412","2,412",36,98.5,0
+01/02/2025,RJ8,Cornwall Partnership NHS Foundation Trust,0,0,0,0,0,0,,7
+01/02/2025,RBD,Dorset County Hospital NHS Foundation Trust,"3,812",0,"3,557","3,557","7,369","1,616",78.1,"1,548"
+01/02/2025,RDY,Dorset Healthcare University NHS Foundation Trust,0,0,0,0,0,0,,5
+01/02/2025,RTQ,Gloucestershire Health And Care NHS Foundation Trust,0,0,"6,854","6,854","6,854",56,99.2,0
+01/02/2025,RTE,Gloucestershire Hospitals NHS Foundation Trust,"11,727",0,0,0,"11,727","4,621",60.6,"2,435"
+01/02/2025,RN3,Great Western Hospitals NHS Foundation Trust,"4,962",0,"4,772","4,772","9,734","2,676",72.5,"2,201"
+01/02/2025,RVJ,North Bristol NHS Trust,"7,941",0,0,0,"7,941","3,225",59.4,"2,563"
+01/02/2025,L83087,Okehampton Medical Centre,0,0,69,69,69,0,100,0
+01/02/2025,NQT5H,Paulton Memorial Hospital,0,0,913,913,913,5,99.5,0
+01/02/2025,REF,Royal Cornwall Hospitals NHS Trust,"5,765",0,"10,121","10,121","15,886","3,601",77.3,"2,396"
+01/02/2025,RH8,Royal Devon University Healthcare NHS Foundation Trust,"12,019",0,"3,969","3,969","15,988","5,284",67,"3,104"
+01/02/2025,RD1,Royal United Hospitals Bath NHS Foundation Trust,"7,674",0,0,0,"7,674","3,269",57.4,"2,317"
+01/02/2025,RNZ,Salisbury NHS Foundation Trust,"4,263",276,"1,584","1,860","6,123","2,008",67.2,"1,202"
+01/02/2025,NLX,Sirona Care & Health,0,0,"7,829","7,829","7,829",385,95.1,0
+01/02/2025,RH5,Somerset NHS Foundation Trust,"10,816",0,"8,601","8,601","19,417","5,234",73,"2,698"
+01/02/2025,RYF,South Western Ambulance Service NHS Foundation Trust,0,0,"1,648","1,648","1,648",18,98.9,0
+01/02/2025,AAH,Tetbury Hospital Trust Ltd,0,0,545,545,545,0,100,0
+01/02/2025,RA9,Torbay And South Devon NHS Foundation Trust,"5,925",0,"2,819","2,819","8,744","2,723",68.9,"1,931"
+01/02/2025,RA7,University Hospitals Bristol And Weston NHS Foundation Trust,"13,998","2,114",0,"2,114","16,112","5,835",63.8,"4,700"
+01/02/2025,R0D,University Hospitals Dorset NHS Foundation Trust,"11,840",0,"4,341","4,341","16,181","4,892",69.8,"3,752"
+01/02/2025,RK9,University Hospitals Plymouth NHS Trust,"8,072",131,"4,653","4,784","12,856","4,319",66.4,"2,599"
+01/02/2025,AXG,Wiltshire Health & Care,0,0,"2,090","2,090","2,090",17,99.2,0

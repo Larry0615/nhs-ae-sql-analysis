@@ -1,0 +1,1129 @@
+"month","provider_name","total_attendances","over_4hr_waits","pct_breached","perfomance_flag"
+2024-11-01,The Shrewsbury And Telford Hospital NHS Trust,12921,6366,49.27,Critical
+2024-11-01,Nottingham University Hospitals NHS Trust,18360,8907,48.51,Critical
+2024-11-01,Worcestershire Acute Hospitals NHS Trust,18647,8510,45.64,Critical
+2024-11-01,East Cheshire NHS Trust,4397,2006,45.62,Critical
+2024-11-01,The Princess Alexandra Hospital NHS Trust,10290,4639,45.08,Critical
+2024-11-01,North Bristol NHS Trust,9099,4076,44.80,Critical
+2024-11-01,Royal United Hospitals Bath NHS Foundation Trust,8488,3715,43.77,Critical
+2024-11-01,Mid Cheshire Hospitals NHS Foundation Trust,9923,4302,43.35,Critical
+2024-11-01,Hampshire Hospitals NHS Foundation Trust,13474,5795,43.01,Critical
+2024-11-01,Countess Of Chester Hospital NHS Foundation Trust,7401,3132,42.32,Critical
+2024-11-01,University Hospitals Of Leicester NHS Trust,25177,10588,42.05,Critical
+2024-11-01,Hull University Teaching Hospitals NHS Trust,14374,6012,41.83,Critical
+2024-11-01,University Hospitals Birmingham NHS Foundation Trust,37185,15478,41.62,Critical
+2024-11-01,University Hospital Southampton NHS Foundation Trust,13497,5481,40.61,Critical
+2024-11-01,Airedale NHS Foundation Trust,6377,2577,40.41,Critical
+2024-11-01,Surrey And Sussex Healthcare NHS Trust,11192,4397,39.29,High
+2024-11-01,Barnsley Hospital NHS Foundation Trust,9144,3569,39.03,High
+2024-11-01,Gloucestershire Hospitals NHS Foundation Trust,13297,5056,38.02,High
+2024-11-01,The Rotherham NHS Foundation Trust,8946,3391,37.91,High
+2024-11-01,Birmingham Women's And Children's NHS Foundation Trust,6522,2458,37.69,High
+2024-11-01,York And Scarborough Teaching Hospitals NHS Foundation Trust,17636,6634,37.62,High
+2024-11-01,Bolton NHS Foundation Trust,11998,4498,37.49,High
+2024-11-01,United Lincolnshire Teaching Hospitals NHS Trust,20608,7718,37.45,High
+2024-11-01,Stockport NHS Foundation Trust,9282,3465,37.33,High
+2024-11-01,Northampton General Hospital NHS Trust,14375,5358,37.27,High
+2024-11-01,Warrington And Halton Teaching Hospitals NHS Foundation Trust,10189,3768,36.98,High
+2024-11-01,North Cumbria Integrated Care NHS Foundation Trust,10761,3970,36.89,High
+2024-11-01,James Paget University Hospitals NHS Foundation Trust,8613,3175,36.86,High
+2024-11-01,North Middlesex University Hospital NHS Trust,15715,5718,36.39,High
+2024-11-01,Portsmouth Hospitals University National Health Service Trust,15668,5700,36.38,High
+2024-11-01,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",8013,2912,36.34,High
+2024-11-01,Manchester University NHS Foundation Trust,45377,16319,35.96,High
+2024-11-01,Northern Care Alliance NHS Foundation Trust,35245,12606,35.77,High
+2024-11-01,West Suffolk NHS Foundation Trust,8393,2998,35.72,High
+2024-11-01,Calderdale And Huddersfield NHS Foundation Trust,15295,5422,35.45,High
+2024-11-01,Lewisham And Greenwich NHS Trust,25398,8998,35.43,High
+2024-11-01,University Hospitals Sussex NHS Foundation Trust,31793,11238,35.35,High
+2024-11-01,University Hospitals Of North Midlands NHS Trust,23151,8159,35.24,High
+2024-11-01,Wye Valley NHS Trust,7399,2607,35.23,High
+2024-11-01,University Hospitals Bristol And Weston NHS Foundation Trust,18761,6599,35.17,High
+2024-11-01,South Warwickshire University NHS Foundation Trust,9046,3167,35.01,High
+2024-11-01,North West Anglia NHS Foundation Trust,20105,7001,34.82,High
+2024-11-01,Ashford And St Peter's Hospitals NHS Foundation Trust,10468,3559,34.00,High
+2024-11-01,University Hospitals Plymouth NHS Trust,14016,4758,33.95,High
+2024-11-01,Wirral University Teaching Hospital NHS Foundation Trust,9232,3131,33.91,High
+2024-11-01,University Hospitals Coventry And Warwickshire NHS Trust,19476,6601,33.89,High
+2024-11-01,Sherwood Forest Hospitals NHS Foundation Trust,16703,5600,33.53,High
+2024-11-01,Cambridge University Hospitals NHS Foundation Trust,16787,5625,33.51,High
+2024-11-01,Mid Yorkshire Teaching NHS Trust,22998,7610,33.09,High
+2024-11-01,Liverpool University Hospitals NHS Foundation Trust,25796,8494,32.93,High
+2024-11-01,Torbay And South Devon NHS Foundation Trust,9803,3224,32.89,High
+2024-11-01,East And North Hertfordshire NHS Trust,17027,5583,32.79,High
+2024-11-01,Tameside And Glossop Integrated Care NHS Foundation Trust,12590,4085,32.45,High
+2024-11-01,South Tyneside And Sunderland NHS Foundation Trust,20895,6687,32.00,High
+2024-11-01,University Hospitals Of Derby And Burton NHS Foundation Trust,31891,10184,31.93,High
+2024-11-01,Buckinghamshire Healthcare NHS Trust,15333,4888,31.88,High
+2024-11-01,"Wrightington, Wigan And Leigh NHS Foundation Trust",12414,3900,31.42,High
+2024-11-01,Royal Devon University Healthcare NHS Foundation Trust,17768,5579,31.40,High
+2024-11-01,Harrogate And District NHS Foundation Trust,6321,1980,31.32,High
+2024-11-01,Oxford University Hospitals NHS Foundation Trust,18765,5850,31.18,High
+2024-11-01,Frimley Health NHS Foundation Trust,33836,10349,30.59,High
+2024-11-01,University College London Hospitals NHS Foundation Trust,13619,4164,30.57,High
+2024-11-01,Chesterfield Royal Hospital NHS Foundation Trust,13236,4032,30.46,High
+2024-11-01,Salisbury NHS Foundation Trust,6772,2047,30.23,High
+2024-11-01,Royal Berkshire NHS Foundation Trust,15595,4699,30.13,High
+2024-11-01,Lancashire Teaching Hospitals NHS Foundation Trust,16045,4824,30.07,High
+2024-11-01,Sheffield Teaching Hospitals NHS Foundation Trust,19154,5757,30.06,High
+2024-11-01,Barts Health NHS Trust,43897,13160,29.98,Acceptable
+2024-11-01,Mid And South Essex NHS Foundation Trust,36248,10845,29.92,Acceptable
+2024-11-01,University Hospitals Dorset NHS Foundation Trust,17704,5292,29.89,Acceptable
+2024-11-01,The Hillingdon Hospitals NHS Foundation Trust,13274,3965,29.87,Acceptable
+2024-11-01,Whittington Health NHS Trust,9302,2715,29.19,Acceptable
+2024-11-01,George Eliot Hospital NHS Trust,9199,2679,29.12,Acceptable
+2024-11-01,East Sussex Healthcare NHS Trust,14156,4077,28.80,Acceptable
+2024-11-01,King's College Hospital NHS Foundation Trust,25530,7321,28.68,Acceptable
+2024-11-01,Somerset NHS Foundation Trust,21359,6074,28.44,Acceptable
+2024-11-01,Croydon Health Services NHS Trust,18455,5194,28.14,Acceptable
+2024-11-01,London North West University Healthcare NHS Trust,29173,8202,28.12,Acceptable
+2024-11-01,Sandwell And West Birmingham Hospitals NHS Trust,23517,6579,27.98,Acceptable
+2024-11-01,Epsom And St Helier University Hospitals NHS Trust,13685,3792,27.71,Acceptable
+2024-11-01,Milton Keynes University Hospital NHS Foundation Trust,14386,3910,27.18,Acceptable
+2024-11-01,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,17516,4740,27.06,Acceptable
+2024-11-01,Gateshead Health NHS Foundation Trust,9631,2598,26.98,Acceptable
+2024-11-01,Isle Of Wight NHS Trust,5861,1580,26.96,Acceptable
+2024-11-01,Mersey And West Lancashire Teaching Hospitals NHS Trust,24697,6598,26.72,Acceptable
+2024-11-01,Alder Hey Children's NHS Foundation Trust,6277,1663,26.49,Acceptable
+2024-11-01,Leeds Teaching Hospitals NHS Trust,30976,8189,26.44,Acceptable
+2024-11-01,East Suffolk And North Essex NHS Foundation Trust,28780,7551,26.24,Acceptable
+2024-11-01,Kingston And Richmond NHS Foundation Trust,15724,4116,26.18,Acceptable
+2024-11-01,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,20563,5369,26.11,Acceptable
+2024-11-01,Bedfordshire Hospitals NHS Foundation Trust,26188,6826,26.07,Acceptable
+2024-11-01,Great Western Hospitals NHS Foundation Trust,10928,2840,25.99,Acceptable
+2024-11-01,Dartford And Gravesham NHS Trust,15418,4004,25.97,Acceptable
+2024-11-01,Walsall Healthcare NHS Trust,14583,3785,25.95,Acceptable
+2024-11-01,Northern Lincolnshire And Goole NHS Foundation Trust,16217,4209,25.95,Acceptable
+2024-11-01,East Kent Hospitals University NHS Foundation Trust,25938,6707,25.86,Acceptable
+2024-11-01,Chelsea And Westminster Hospital NHS Foundation Trust,26822,6902,25.73,Acceptable
+2024-11-01,Guy's And St Thomas' NHS Foundation Trust,18592,4765,25.63,Acceptable
+2024-11-01,South Tees Hospitals NHS Foundation Trust,18458,4655,25.22,Acceptable
+2024-11-01,Royal Free London NHS Foundation Trust,26449,6612,25.00,Acceptable
+2024-11-01,University Hospitals Of Morecambe Bay NHS Foundation Trust,12975,3235,24.93,Acceptable
+2024-11-01,West Hertfordshire Teaching Hospitals NHS Trust,16815,4049,24.08,Acceptable
+2024-11-01,County Durham And Darlington NHS Foundation Trust,24550,5892,24.00,Acceptable
+2024-11-01,St George's University Hospitals NHS Foundation Trust,13073,3124,23.90,Acceptable
+2024-11-01,East Lancashire Hospitals NHS Trust,23178,5369,23.16,Acceptable
+2024-11-01,Royal Surrey County Hospital NHS Foundation Trust,9248,2131,23.04,Acceptable
+2024-11-01,"Barking, Havering And Redbridge University Hospitals NHS Trust",29993,6894,22.99,Acceptable
+2024-11-01,Kettering General Hospital NHS Foundation Trust,19422,4437,22.85,Acceptable
+2024-11-01,Medway NHS Foundation Trust,17131,3890,22.71,Acceptable
+2024-11-01,Homerton Healthcare NHS Foundation Trust,10915,2475,22.68,Acceptable
+2024-11-01,Imperial College Healthcare NHS Trust,23292,5280,22.67,Acceptable
+2024-11-01,Royal Cornwall Hospitals NHS Trust,16471,3712,22.54,Acceptable
+2024-11-01,Blackpool Teaching Hospitals NHS Foundation Trust,19026,4228,22.22,Acceptable
+2024-11-01,The Royal Wolverhampton NHS Trust,22262,4699,21.11,Acceptable
+2024-11-01,Dorset County Hospital NHS Foundation Trust,8158,1703,20.88,Acceptable
+2024-11-01,Norfolk And Norwich University Hospitals NHS Foundation Trust,20482,3992,19.49,Acceptable
+2024-11-01,Bradford Teaching Hospitals NHS Foundation Trust,13583,2531,18.63,Acceptable
+2024-11-01,Maidstone And Tunbridge Wells NHS Trust,21694,3998,18.43,Acceptable
+2024-11-01,North Tees And Hartlepool NHS Foundation Trust,16645,3016,18.12,Acceptable
+2024-11-01,The Dudley Group NHS Foundation Trust,15172,2749,18.12,Acceptable
+2024-11-01,Northumbria Healthcare NHS Foundation Trust,21491,2631,12.24,Acceptable
+2024-11-01,Sheffield Children's NHS Foundation Trust,6097,700,11.48,Acceptable
+2024-11-01,Oxford Health NHS Foundation Trust,3746,339,9.05,Acceptable
+2024-11-01,Liverpool Women's NHS Foundation Trust,1356,113,8.33,Acceptable
+2024-11-01,East Riding Community Hospital,2655,220,8.29,Acceptable
+2024-11-01,Bransholme Health Centre,3623,250,6.90,Acceptable
+2024-11-01,Nottingham Citycare Partnership,5830,358,6.14,Acceptable
+2024-11-01,South Western Ambulance Service NHS Foundation Trust,1598,96,6.01,Acceptable
+2024-11-01,Sirona Care & Health,8260,486,5.88,Acceptable
+2024-11-01,Practice Plus Group Surgical Centre - St Marys Portsmouth,5850,224,3.83,Acceptable
+2024-11-01,Wirral Community Health And Care NHS Foundation Trust,4293,153,3.56,Acceptable
+2024-11-01,Practice Plus Group Hospital - Southampton,5160,172,3.33,Acceptable
+2024-11-01,Urgent Care Centre (Qms),8444,259,3.07,Acceptable
+2024-11-01,Bridgewater Community Healthcare NHS Foundation Trust,3163,75,2.37,Acceptable
+2024-11-01,Lincolnshire Community Health Services NHS Trust,7988,180,2.25,Acceptable
+2024-11-01,Herts Urgent Care (Ascots Lane),2106,43,2.04,Acceptable
+2024-11-01,Mersey Care NHS Foundation Trust,13642,262,1.92,Acceptable
+2024-11-01,Moorfields Eye Hospital NHS Foundation Trust,5659,92,1.63,Acceptable
+2024-11-01,Central London Community Healthcare NHS Trust,12500,200,1.60,Acceptable
+2024-11-01,Beckenham Beacon Ucc,3769,57,1.51,Acceptable
+2024-11-01,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,2822,40,1.42,Acceptable
+2024-11-01,Hertfordshire Community NHS Trust,1002,12,1.20,Acceptable
+2024-11-01,Wiltshire Health & Care,2194,25,1.14,Acceptable
+2024-11-01,Woking Walk In Centre,2435,25,1.03,Acceptable
+2024-11-01,Dhu Health Care C.I.C,2044,19,0.93,Acceptable
+2024-11-01,Queen Victoria Hospital NHS Foundation Trust,1350,12,0.89,Acceptable
+2024-11-01,Skelmersdale Walk In Centre,1704,15,0.88,Acceptable
+2024-11-01,Gloucestershire Health And Care NHS Foundation Trust,7118,62,0.87,Acceptable
+2024-11-01,Brighton Station Health Centre,1925,16,0.83,Acceptable
+2024-11-01,Ashford Walk-In-Centre,2243,17,0.76,Acceptable
+2024-11-01,Barking Hospital Utc,2882,20,0.69,Acceptable
+2024-11-01,Sussex Community NHS Foundation Trust,11428,77,0.67,Acceptable
+2024-11-01,Paulton Memorial Hospital,932,5,0.54,Acceptable
+2024-11-01,Loughborough Urgent Care Centre,7084,38,0.54,Acceptable
+2024-11-01,Berkshire Healthcare NHS Foundation Trust,1313,7,0.53,Acceptable
+2024-11-01,Derbyshire Community Health Services NHS Foundation Trust,7929,39,0.49,Acceptable
+2024-11-01,Goole & District Hospital,1560,7,0.45,Acceptable
+2024-11-01,Harold Wood Polyclinic Utc,2902,9,0.31,Acceptable
+2024-11-01,Kent Community Health NHS Foundation Trust,9426,20,0.21,Acceptable
+2024-11-01,Shropshire Community Health NHS Trust,2850,5,0.18,Acceptable
+2024-11-01,Humber Teaching NHS Foundation Trust,1043,1,0.10,Acceptable
+2024-11-01,Llr Ea - The Merlyn Vaz Health & Social Care Centre,2292,1,0.04,Acceptable
+2024-11-01,Phl Lymington Utc,2605,1,0.04,Acceptable
+2024-11-01,Local Care Direct,2384,0,0.00,Acceptable
+2024-11-01,Summerfield Urgent Care Centre,3160,0,0.00,Acceptable
+2024-11-01,Bridlington Hospital,1362,0,0.00,Acceptable
+2024-11-01,South Birmingham GP Walk In Centre,7178,0,0.00,Acceptable
+2024-11-01,Sleaford Medical Group,496,0,0.00,Acceptable
+2024-11-01,Oakham,444,0,0.00,Acceptable
+2024-11-01,Oadby,2653,0,0.00,Acceptable
+2024-11-01,Melton Mowbray,428,0,0.00,Acceptable
+2024-11-01,Market Harborough Med.Ctr,282,0,0.00,Acceptable
+2024-11-01,Market Harborough,501,0,0.00,Acceptable
+2024-11-01,Latham House Medical Practice,303,0,0.00,Acceptable
+2024-11-01,Erdington GP Health & Wellbeing Wic,2520,0,0.00,Acceptable
+2024-11-01,Workington Health Limited,321,0,0.00,Acceptable
+2024-11-01,Badger Ltd,2011,0,0.00,Acceptable
+2024-11-01,Assura Vertis Urgent Care Centres (Birmingham),4350,0,0.00,Acceptable
+2024-11-01,The Pinn Unregistered Wic,1106,0,0.00,Acceptable
+2024-11-01,Miriam Minor Emergency,1654,0,0.00,Acceptable
+2024-11-01,Rossendale Miu & Ooh,899,0,0.00,Acceptable
+2024-11-01,First Community Health And Care Cic,2120,0,0.00,Acceptable
+2024-11-01,Reading Urgent Care Centre,1973,0,0.00,Acceptable
+2024-11-01,Station Plaza Health Centre,1008,0,0.00,Acceptable
+2024-11-01,Putnoe Walk In Centre,3372,0,0.00,Acceptable
+2024-11-01,Whitstable Medical Practice,5911,0,0.00,Acceptable
+2024-11-01,Okehampton Medical Centre,73,0,0.00,Acceptable
+2024-11-01,Tetbury Hospital Trust Ltd,516,0,0.00,Acceptable
+2024-12-01,Nottingham University Hospitals NHS Trust,18238,9653,52.93,Critical
+2024-12-01,East Cheshire NHS Trust,4562,2292,50.24,Critical
+2024-12-01,The Shrewsbury And Telford Hospital NHS Trust,13308,6615,49.71,Critical
+2024-12-01,Worcestershire Acute Hospitals NHS Trust,18359,8630,47.01,Critical
+2024-12-01,Hull University Teaching Hospitals NHS Trust,14063,6448,45.85,Critical
+2024-12-01,Mid Cheshire Hospitals NHS Foundation Trust,10020,4564,45.55,Critical
+2024-12-01,Royal United Hospitals Bath NHS Foundation Trust,8580,3891,45.35,Critical
+2024-12-01,The Princess Alexandra Hospital NHS Trust,11039,4949,44.83,Critical
+2024-12-01,Surrey And Sussex Healthcare NHS Trust,11305,5040,44.58,Critical
+2024-12-01,Countess Of Chester Hospital NHS Foundation Trust,7320,3261,44.55,Critical
+2024-12-01,University Hospital Southampton NHS Foundation Trust,13753,5822,42.33,Critical
+2024-12-01,The Rotherham NHS Foundation Trust,9222,3883,42.11,Critical
+2024-12-01,University Hospitals Birmingham NHS Foundation Trust,37501,15659,41.76,Critical
+2024-12-01,North Bristol NHS Trust,8662,3608,41.65,Critical
+2024-12-01,Hampshire Hospitals NHS Foundation Trust,13855,5755,41.54,Critical
+2024-12-01,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",8368,3458,41.32,Critical
+2024-12-01,South Warwickshire University NHS Foundation Trust,8694,3584,41.22,Critical
+2024-12-01,University Hospitals Of Leicester NHS Trust,24149,9849,40.78,Critical
+2024-12-01,United Lincolnshire Teaching Hospitals NHS Trust,21219,8394,39.56,High
+2024-12-01,York And Scarborough Teaching Hospitals NHS Foundation Trust,16698,6512,39.00,High
+2024-12-01,Gloucestershire Hospitals NHS Foundation Trust,13793,5360,38.86,High
+2024-12-01,North West Anglia NHS Foundation Trust,20723,7973,38.47,High
+2024-12-01,Bolton NHS Foundation Trust,11848,4556,38.45,High
+2024-12-01,Wirral University Teaching Hospital NHS Foundation Trust,10841,4167,38.44,High
+2024-12-01,Sherwood Forest Hospitals NHS Foundation Trust,16865,6467,38.35,High
+2024-12-01,West Suffolk NHS Foundation Trust,8738,3316,37.95,High
+2024-12-01,James Paget University Hospitals NHS Foundation Trust,8549,3242,37.92,High
+2024-12-01,Airedale NHS Foundation Trust,6568,2489,37.90,High
+2024-12-01,Barnsley Hospital NHS Foundation Trust,9203,3487,37.89,High
+2024-12-01,University Hospitals Bristol And Weston NHS Foundation Trust,17953,6772,37.72,High
+2024-12-01,Tameside And Glossop Integrated Care NHS Foundation Trust,12827,4801,37.43,High
+2024-12-01,University Hospitals Of North Midlands NHS Trust,23859,8903,37.32,High
+2024-12-01,North Cumbria Integrated Care NHS Foundation Trust,11109,4115,37.04,High
+2024-12-01,Stockport NHS Foundation Trust,9262,3429,37.02,High
+2024-12-01,Warrington And Halton Teaching Hospitals NHS Foundation Trust,10215,3771,36.92,High
+2024-12-01,Ashford And St Peter's Hospitals NHS Foundation Trust,10917,4022,36.84,High
+2024-12-01,South Tyneside And Sunderland NHS Foundation Trust,21304,7818,36.70,High
+2024-12-01,Wye Valley NHS Trust,7401,2712,36.64,High
+2024-12-01,University Hospitals Sussex NHS Foundation Trust,31484,11510,36.56,High
+2024-12-01,Calderdale And Huddersfield NHS Foundation Trust,16032,5838,36.41,High
+2024-12-01,Portsmouth Hospitals University National Health Service Trust,16220,5902,36.39,High
+2024-12-01,North Middlesex University Hospital NHS Trust,16636,6049,36.36,High
+2024-12-01,University Hospitals Plymouth NHS Trust,14332,5206,36.32,High
+2024-12-01,University Hospitals Dorset NHS Foundation Trust,18240,6548,35.90,High
+2024-12-01,Lewisham And Greenwich NHS Trust,26110,9364,35.86,High
+2024-12-01,Mid And South Essex NHS Foundation Trust,36534,13046,35.71,High
+2024-12-01,Royal Devon University Healthcare NHS Foundation Trust,17649,6290,35.64,High
+2024-12-01,Northampton General Hospital NHS Trust,14020,4992,35.61,High
+2024-12-01,Northern Care Alliance NHS Foundation Trust,35185,12466,35.43,High
+2024-12-01,Manchester University NHS Foundation Trust,43733,15408,35.23,High
+2024-12-01,Torbay And South Devon NHS Foundation Trust,9892,3468,35.06,High
+2024-12-01,Gateshead Health NHS Foundation Trust,9876,3399,34.42,High
+2024-12-01,Mid Yorkshire Teaching NHS Trust,22866,7862,34.38,High
+2024-12-01,Birmingham Women's And Children's NHS Foundation Trust,5924,2003,33.81,High
+2024-12-01,Royal Berkshire NHS Foundation Trust,15843,5303,33.47,High
+2024-12-01,East And North Hertfordshire NHS Trust,16900,5648,33.42,High
+2024-12-01,Oxford University Hospitals NHS Foundation Trust,18408,6137,33.34,High
+2024-12-01,University Hospitals Coventry And Warwickshire NHS Trust,19959,6638,33.26,High
+2024-12-01,Harrogate And District NHS Foundation Trust,6451,2097,32.51,High
+2024-12-01,Somerset NHS Foundation Trust,22191,7169,32.31,High
+2024-12-01,Cambridge University Hospitals NHS Foundation Trust,16683,5389,32.30,High
+2024-12-01,Salisbury NHS Foundation Trust,7314,2360,32.27,High
+2024-12-01,University Hospitals Of Derby And Burton NHS Foundation Trust,31960,10268,32.13,High
+2024-12-01,Whittington Health NHS Trust,9388,3013,32.09,High
+2024-12-01,Milton Keynes University Hospital NHS Foundation Trust,15145,4841,31.96,High
+2024-12-01,Liverpool University Hospitals NHS Foundation Trust,25302,8062,31.86,High
+2024-12-01,George Eliot Hospital NHS Trust,9098,2891,31.78,High
+2024-12-01,"Wrightington, Wigan And Leigh NHS Foundation Trust",12914,4090,31.67,High
+2024-12-01,Northern Lincolnshire And Goole NHS Foundation Trust,16491,5209,31.59,High
+2024-12-01,Buckinghamshire Healthcare NHS Trust,15553,4911,31.58,High
+2024-12-01,East Sussex Healthcare NHS Trust,14566,4545,31.20,High
+2024-12-01,Sheffield Teaching Hospitals NHS Foundation Trust,19389,6048,31.19,High
+2024-12-01,London North West University Healthcare NHS Trust,29158,9007,30.89,High
+2024-12-01,The Hillingdon Hospitals NHS Foundation Trust,13118,3987,30.39,High
+2024-12-01,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,17876,5361,29.99,Acceptable
+2024-12-01,Barts Health NHS Trust,45008,13365,29.69,Acceptable
+2024-12-01,Chesterfield Royal Hospital NHS Foundation Trust,13464,3996,29.68,Acceptable
+2024-12-01,University College London Hospitals NHS Foundation Trust,13221,3911,29.58,Acceptable
+2024-12-01,Lancashire Teaching Hospitals NHS Foundation Trust,15998,4724,29.53,Acceptable
+2024-12-01,Royal Surrey County Hospital NHS Foundation Trust,8752,2559,29.24,Acceptable
+2024-12-01,Croydon Health Services NHS Trust,19205,5528,28.78,Acceptable
+2024-12-01,Mersey And West Lancashire Teaching Hospitals NHS Trust,24669,7057,28.61,Acceptable
+2024-12-01,Sandwell And West Birmingham Hospitals NHS Trust,22216,6316,28.43,Acceptable
+2024-12-01,Bedfordshire Hospitals NHS Foundation Trust,27552,7825,28.40,Acceptable
+2024-12-01,Frimley Health NHS Foundation Trust,35788,10161,28.39,Acceptable
+2024-12-01,Epsom And St Helier University Hospitals NHS Trust,13874,3909,28.18,Acceptable
+2024-12-01,King's College Hospital NHS Foundation Trust,25987,7311,28.13,Acceptable
+2024-12-01,South Tees Hospitals NHS Foundation Trust,18770,5244,27.94,Acceptable
+2024-12-01,Guy's And St Thomas' NHS Foundation Trust,17305,4831,27.92,Acceptable
+2024-12-01,Dartford And Gravesham NHS Trust,16288,4492,27.58,Acceptable
+2024-12-01,Isle Of Wight NHS Trust,6554,1771,27.02,Acceptable
+2024-12-01,Leeds Teaching Hospitals NHS Trust,30932,8299,26.83,Acceptable
+2024-12-01,Kingston And Richmond NHS Foundation Trust,15857,4245,26.77,Acceptable
+2024-12-01,Walsall Healthcare NHS Trust,14613,3896,26.66,Acceptable
+2024-12-01,Medway NHS Foundation Trust,16830,4411,26.21,Acceptable
+2024-12-01,East Suffolk And North Essex NHS Foundation Trust,30635,8015,26.16,Acceptable
+2024-12-01,University Hospitals Of Morecambe Bay NHS Foundation Trust,13137,3435,26.15,Acceptable
+2024-12-01,Homerton Healthcare NHS Foundation Trust,11164,2904,26.01,Acceptable
+2024-12-01,East Lancashire Hospitals NHS Trust,23141,5925,25.60,Acceptable
+2024-12-01,East Kent Hospitals University NHS Foundation Trust,26670,6815,25.55,Acceptable
+2024-12-01,Great Western Hospitals NHS Foundation Trust,11067,2799,25.29,Acceptable
+2024-12-01,Dorset County Hospital NHS Foundation Trust,8671,2176,25.10,Acceptable
+2024-12-01,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,20266,5080,25.07,Acceptable
+2024-12-01,Imperial College Healthcare NHS Trust,23660,5872,24.82,Acceptable
+2024-12-01,Chelsea And Westminster Hospital NHS Foundation Trust,27338,6672,24.41,Acceptable
+2024-12-01,West Hertfordshire Teaching Hospitals NHS Trust,16884,3986,23.61,Acceptable
+2024-12-01,Blackpool Teaching Hospitals NHS Foundation Trust,19441,4515,23.22,Acceptable
+2024-12-01,Kettering General Hospital NHS Foundation Trust,20628,4787,23.21,Acceptable
+2024-12-01,County Durham And Darlington NHS Foundation Trust,25797,5933,23.00,Acceptable
+2024-12-01,Royal Cornwall Hospitals NHS Trust,17054,3897,22.85,Acceptable
+2024-12-01,"Barking, Havering And Redbridge University Hospitals NHS Trust",30834,6804,22.07,Acceptable
+2024-12-01,Royal Free London NHS Foundation Trust,26975,5922,21.95,Acceptable
+2024-12-01,The Dudley Group NHS Foundation Trust,15354,3364,21.91,Acceptable
+2024-12-01,The Royal Wolverhampton NHS Trust,23167,4855,20.96,Acceptable
+2024-12-01,Maidstone And Tunbridge Wells NHS Trust,21538,4507,20.93,Acceptable
+2024-12-01,St George's University Hospitals NHS Foundation Trust,12690,2580,20.33,Acceptable
+2024-12-01,Norfolk And Norwich University Hospitals NHS Foundation Trust,21215,4167,19.64,Acceptable
+2024-12-01,Bradford Teaching Hospitals NHS Foundation Trust,14180,2711,19.12,Acceptable
+2024-12-01,Alder Hey Children's NHS Foundation Trust,6181,1180,19.09,Acceptable
+2024-12-01,North Tees And Hartlepool NHS Foundation Trust,17631,3359,19.05,Acceptable
+2024-12-01,Nottingham Citycare Partnership,5794,857,14.79,Acceptable
+2024-12-01,Northumbria Healthcare NHS Foundation Trust,22902,3343,14.60,Acceptable
+2024-12-01,Bransholme Health Centre,3600,470,13.06,Acceptable
+2024-12-01,Liverpool Women's NHS Foundation Trust,1553,168,10.82,Acceptable
+2024-12-01,Sheffield Children's NHS Foundation Trust,6031,648,10.74,Acceptable
+2024-12-01,Oxford Health NHS Foundation Trust,3042,256,8.42,Acceptable
+2024-12-01,East Riding Community Hospital,2643,214,8.10,Acceptable
+2024-12-01,South Western Ambulance Service NHS Foundation Trust,1620,129,7.96,Acceptable
+2024-12-01,Ashford Walk-In-Centre,2372,170,7.17,Acceptable
+2024-12-01,Wirral Community Health And Care NHS Foundation Trust,4247,236,5.56,Acceptable
+2024-12-01,Sirona Care & Health,8046,423,5.26,Acceptable
+2024-12-01,Practice Plus Group Surgical Centre - St Marys Portsmouth,5699,289,5.07,Acceptable
+2024-12-01,Bridgewater Community Healthcare NHS Foundation Trust,3258,163,5.00,Acceptable
+2024-12-01,Bridlington Hospital,1383,65,4.70,Acceptable
+2024-12-01,Practice Plus Group Hospital - Southampton,5058,235,4.65,Acceptable
+2024-12-01,Lincolnshire Community Health Services NHS Trust,8592,324,3.77,Acceptable
+2024-12-01,Central London Community Healthcare NHS Trust,12705,358,2.82,Acceptable
+2024-12-01,Urgent Care Centre (Qms),8781,247,2.81,Acceptable
+2024-12-01,Wiltshire Health & Care,2149,59,2.75,Acceptable
+2024-12-01,Mersey Care NHS Foundation Trust,13451,346,2.57,Acceptable
+2024-12-01,Hertfordshire Community NHS Trust,899,20,2.22,Acceptable
+2024-12-01,Herts Urgent Care (Ascots Lane),1884,38,2.02,Acceptable
+2024-12-01,Beckenham Beacon Ucc,4052,76,1.88,Acceptable
+2024-12-01,Woking Walk In Centre,2564,45,1.76,Acceptable
+2024-12-01,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,2915,51,1.75,Acceptable
+2024-12-01,Moorfields Eye Hospital NHS Foundation Trust,5063,81,1.60,Acceptable
+2024-12-01,Goole & District Hospital,1536,24,1.56,Acceptable
+2024-12-01,Barking Hospital Utc,2841,35,1.23,Acceptable
+2024-12-01,Sussex Community NHS Foundation Trust,11386,139,1.22,Acceptable
+2024-12-01,Berkshire Healthcare NHS Foundation Trust,1133,11,0.97,Acceptable
+2024-12-01,Gloucestershire Health And Care NHS Foundation Trust,7577,56,0.74,Acceptable
+2024-12-01,Skelmersdale Walk In Centre,1855,13,0.70,Acceptable
+2024-12-01,Harold Wood Polyclinic Utc,2880,18,0.63,Acceptable
+2024-12-01,Derbyshire Community Health Services NHS Foundation Trust,8416,53,0.63,Acceptable
+2024-12-01,Loughborough Urgent Care Centre,7038,40,0.57,Acceptable
+2024-12-01,Kent Community Health NHS Foundation Trust,9337,43,0.46,Acceptable
+2024-12-01,Humber Teaching NHS Foundation Trust,1140,5,0.44,Acceptable
+2024-12-01,Queen Victoria Hospital NHS Foundation Trust,1316,5,0.38,Acceptable
+2024-12-01,Local Care Direct,2734,9,0.33,Acceptable
+2024-12-01,Paulton Memorial Hospital,919,2,0.22,Acceptable
+2024-12-01,Melton Mowbray,555,1,0.18,Acceptable
+2024-12-01,Phl Lymington Utc,2821,4,0.14,Acceptable
+2024-12-01,Shropshire Community Health NHS Trust,2692,1,0.04,Acceptable
+2024-12-01,Station Plaza Health Centre,1158,0,0.00,Acceptable
+2024-12-01,First Community Health And Care Cic,2047,0,0.00,Acceptable
+2024-12-01,Oadby,3975,0,0.00,Acceptable
+2024-12-01,Brighton Station Health Centre,1820,0,0.00,Acceptable
+2024-12-01,Tetbury Hospital Trust Ltd,547,0,0.00,Acceptable
+2024-12-01,Market Harborough Med.Ctr,228,0,0.00,Acceptable
+2024-12-01,Market Harborough,637,0,0.00,Acceptable
+2024-12-01,Rossendale Miu & Ooh,869,0,0.00,Acceptable
+2024-12-01,Miriam Minor Emergency,1687,0,0.00,Acceptable
+2024-12-01,Llr Ea - The Merlyn Vaz Health & Social Care Centre,2455,0,0.00,Acceptable
+2024-12-01,Latham House Medical Practice,255,0,0.00,Acceptable
+2024-12-01,Workington Health Limited,259,0,0.00,Acceptable
+2024-12-01,Erdington GP Health & Wellbeing Wic,2525,0,0.00,Acceptable
+2024-12-01,Dhu Health Care C.I.C,2279,0,0.00,Acceptable
+2024-12-01,Okehampton Medical Centre,62,0,0.00,Acceptable
+2024-12-01,Sleaford Medical Group,691,0,0.00,Acceptable
+2024-12-01,Badger Ltd,1541,0,0.00,Acceptable
+2024-12-01,Oakham,476,0,0.00,Acceptable
+2024-12-01,Assura Vertis Urgent Care Centres (Birmingham),4899,0,0.00,Acceptable
+2024-12-01,South Birmingham GP Walk In Centre,7704,0,0.00,Acceptable
+2024-12-01,The Pinn Unregistered Wic,1035,0,0.00,Acceptable
+2024-12-01,Summerfield Urgent Care Centre,3187,0,0.00,Acceptable
+2024-12-01,Whitstable Medical Practice,5496,0,0.00,Acceptable
+2024-12-01,Putnoe Walk In Centre,4070,0,0.00,Acceptable
+2024-12-01,Reading Urgent Care Centre,2022,0,0.00,Acceptable
+2025-01-01,East Cheshire NHS Trust,4148,2049,49.40,Critical
+2025-01-01,The Shrewsbury And Telford Hospital NHS Trust,11813,5635,47.70,Critical
+2025-01-01,Nottingham University Hospitals NHS Trust,17444,8018,45.96,Critical
+2025-01-01,Mid Cheshire Hospitals NHS Foundation Trust,9394,4070,43.33,Critical
+2025-01-01,The Princess Alexandra Hospital NHS Trust,10423,4506,43.23,Critical
+2025-01-01,Worcestershire Acute Hospitals NHS Trust,17440,7209,41.34,Critical
+2025-01-01,Hull University Teaching Hospitals NHS Trust,13502,5577,41.30,Critical
+2025-01-01,The Rotherham NHS Foundation Trust,8708,3595,41.28,Critical
+2025-01-01,North Cumbria Integrated Care NHS Foundation Trust,10127,4166,41.14,Critical
+2025-01-01,Countess Of Chester Hospital NHS Foundation Trust,6939,2826,40.73,Critical
+2025-01-01,North Bristol NHS Trust,8202,3297,40.20,Critical
+2025-01-01,University Hospitals Of Leicester NHS Trust,23047,9223,40.02,Critical
+2025-01-01,Barnsley Hospital NHS Foundation Trust,8683,3459,39.84,High
+2025-01-01,Royal United Hospitals Bath NHS Foundation Trust,7900,3122,39.52,High
+2025-01-01,Stockport NHS Foundation Trust,9215,3634,39.44,High
+2025-01-01,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",7501,2953,39.37,High
+2025-01-01,Wirral University Teaching Hospital NHS Foundation Trust,10394,4063,39.09,High
+2025-01-01,University Hospitals Birmingham NHS Foundation Trust,35378,13794,38.99,High
+2025-01-01,James Paget University Hospitals NHS Foundation Trust,8050,3057,37.98,High
+2025-01-01,Airedale NHS Foundation Trust,6167,2341,37.96,High
+2025-01-01,Warrington And Halton Teaching Hospitals NHS Foundation Trust,9561,3625,37.91,High
+2025-01-01,Surrey And Sussex Healthcare NHS Trust,9612,3640,37.87,High
+2025-01-01,Hampshire Hospitals NHS Foundation Trust,13218,4972,37.62,High
+2025-01-01,Gloucestershire Hospitals NHS Foundation Trust,12378,4600,37.16,High
+2025-01-01,York And Scarborough Teaching Hospitals NHS Foundation Trust,16074,5934,36.92,High
+2025-01-01,United Lincolnshire Teaching Hospitals NHS Trust,19137,6998,36.57,High
+2025-01-01,West Suffolk NHS Foundation Trust,8150,2959,36.31,High
+2025-01-01,University Hospital Southampton NHS Foundation Trust,12813,4627,36.11,High
+2025-01-01,South Warwickshire University NHS Foundation Trust,7829,2820,36.02,High
+2025-01-01,Wye Valley NHS Trust,6924,2488,35.93,High
+2025-01-01,South Tyneside And Sunderland NHS Foundation Trust,19413,6892,35.50,High
+2025-01-01,University Hospitals Sussex NHS Foundation Trust,30046,10656,35.47,High
+2025-01-01,Lewisham And Greenwich NHS Trust,25080,8801,35.09,High
+2025-01-01,Sherwood Forest Hospitals NHS Foundation Trust,15962,5535,34.68,High
+2025-01-01,"Wrightington, Wigan And Leigh NHS Foundation Trust",11740,4069,34.66,High
+2025-01-01,Mid And South Essex NHS Foundation Trust,32881,11317,34.42,High
+2025-01-01,Portsmouth Hospitals University National Health Service Trust,16037,5512,34.37,High
+2025-01-01,Calderdale And Huddersfield NHS Foundation Trust,14485,4954,34.20,High
+2025-01-01,University Hospitals Bristol And Weston NHS Foundation Trust,17002,5787,34.04,High
+2025-01-01,Bolton NHS Foundation Trust,11559,3934,34.03,High
+2025-01-01,Northern Care Alliance NHS Foundation Trust,33541,11365,33.88,High
+2025-01-01,University Hospitals Plymouth NHS Trust,13738,4652,33.86,High
+2025-01-01,University Hospitals Of North Midlands NHS Trust,23098,7766,33.62,High
+2025-01-01,Ashford And St Peter's Hospitals NHS Foundation Trust,10059,3370,33.50,High
+2025-01-01,Torbay And South Devon NHS Foundation Trust,9216,3069,33.30,High
+2025-01-01,Tameside And Glossop Integrated Care NHS Foundation Trust,12069,4013,33.25,High
+2025-01-01,North West Anglia NHS Foundation Trust,18988,6313,33.25,High
+2025-01-01,Manchester University NHS Foundation Trust,43081,14097,32.72,High
+2025-01-01,Royal Devon University Healthcare NHS Foundation Trust,16814,5491,32.66,High
+2025-01-01,Northampton General Hospital NHS Trust,12780,4118,32.22,High
+2025-01-01,University Hospitals Of Derby And Burton NHS Foundation Trust,28765,9173,31.89,High
+2025-01-01,Whittington Health NHS Trust,9061,2865,31.62,High
+2025-01-01,Lancashire Teaching Hospitals NHS Foundation Trust,15172,4773,31.46,High
+2025-01-01,Mid Yorkshire Teaching NHS Trust,21075,6600,31.32,High
+2025-01-01,Chesterfield Royal Hospital NHS Foundation Trust,12501,3857,30.85,High
+2025-01-01,East And North Hertfordshire NHS Trust,15878,4846,30.52,High
+2025-01-01,Northern Lincolnshire And Goole NHS Foundation Trust,15724,4750,30.21,High
+2025-01-01,Isle Of Wight NHS Trust,6067,1831,30.18,High
+2025-01-01,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,17076,5148,30.15,High
+2025-01-01,King's College Hospital NHS Foundation Trust,25183,7573,30.07,High
+2025-01-01,Sheffield Teaching Hospitals NHS Foundation Trust,18488,5547,30.00,High
+2025-01-01,East Sussex Healthcare NHS Trust,13732,4094,29.81,Acceptable
+2025-01-01,Cambridge University Hospitals NHS Foundation Trust,15944,4704,29.50,Acceptable
+2025-01-01,The Hillingdon Hospitals NHS Foundation Trust,12551,3689,29.39,Acceptable
+2025-01-01,Royal Berkshire NHS Foundation Trust,15932,4678,29.36,Acceptable
+2025-01-01,University Hospitals Dorset NHS Foundation Trust,17022,4996,29.35,Acceptable
+2025-01-01,Barts Health NHS Trust,43836,12830,29.27,Acceptable
+2025-01-01,George Eliot Hospital NHS Trust,8275,2397,28.97,Acceptable
+2025-01-01,Gateshead Health NHS Foundation Trust,9023,2598,28.79,Acceptable
+2025-01-01,University Hospitals Coventry And Warwickshire NHS Trust,19263,5536,28.74,Acceptable
+2025-01-01,Liverpool University Hospitals NHS Foundation Trust,23897,6863,28.72,Acceptable
+2025-01-01,Bedfordshire Hospitals NHS Foundation Trust,25180,7204,28.61,Acceptable
+2025-01-01,Croydon Health Services NHS Trust,18209,5139,28.22,Acceptable
+2025-01-01,Milton Keynes University Hospital NHS Foundation Trust,13393,3696,27.60,Acceptable
+2025-01-01,Oxford University Hospitals NHS Foundation Trust,17983,4914,27.33,Acceptable
+2025-01-01,Walsall Healthcare NHS Trust,13127,3579,27.26,Acceptable
+2025-01-01,Harrogate And District NHS Foundation Trust,5978,1628,27.23,Acceptable
+2025-01-01,University Hospitals Of Morecambe Bay NHS Foundation Trust,12422,3371,27.14,Acceptable
+2025-01-01,Mersey And West Lancashire Teaching Hospitals NHS Trust,23245,6263,26.94,Acceptable
+2025-01-01,Salisbury NHS Foundation Trust,6545,1752,26.77,Acceptable
+2025-01-01,London North West University Healthcare NHS Trust,28482,7622,26.76,Acceptable
+2025-01-01,Royal Free London NHS Foundation Trust,41017,10934,26.66,Acceptable
+2025-01-01,East Kent Hospitals University NHS Foundation Trust,25175,6700,26.61,Acceptable
+2025-01-01,Somerset NHS Foundation Trust,20849,5536,26.55,Acceptable
+2025-01-01,University College London Hospitals NHS Foundation Trust,13061,3457,26.47,Acceptable
+2025-01-01,Kingston And Richmond NHS Foundation Trust,15055,3984,26.46,Acceptable
+2025-01-01,Great Western Hospitals NHS Foundation Trust,10177,2690,26.43,Acceptable
+2025-01-01,East Lancashire Hospitals NHS Trust,22091,5820,26.35,Acceptable
+2025-01-01,Leeds Teaching Hospitals NHS Trust,28860,7497,25.98,Acceptable
+2025-01-01,South Tees Hospitals NHS Foundation Trust,16941,4388,25.90,Acceptable
+2025-01-01,Chelsea And Westminster Hospital NHS Foundation Trust,26369,6786,25.73,Acceptable
+2025-01-01,Sandwell And West Birmingham Hospitals NHS Trust,20709,5309,25.64,Acceptable
+2025-01-01,Epsom And St Helier University Hospitals NHS Trust,12839,3243,25.26,Acceptable
+2025-01-01,Dorset County Hospital NHS Foundation Trust,8005,1989,24.85,Acceptable
+2025-01-01,Frimley Health NHS Foundation Trust,36061,8956,24.84,Acceptable
+2025-01-01,Imperial College Healthcare NHS Trust,23549,5800,24.63,Acceptable
+2025-01-01,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,19138,4710,24.61,Acceptable
+2025-01-01,Medway NHS Foundation Trust,16582,4009,24.18,Acceptable
+2025-01-01,Royal Surrey County Hospital NHS Foundation Trust,8603,2072,24.08,Acceptable
+2025-01-01,Dartford And Gravesham NHS Trust,14986,3564,23.78,Acceptable
+2025-01-01,Guy's And St Thomas' NHS Foundation Trust,16875,4004,23.73,Acceptable
+2025-01-01,East Suffolk And North Essex NHS Foundation Trust,27466,6519,23.73,Acceptable
+2025-01-01,Buckinghamshire Healthcare NHS Trust,15090,3528,23.38,Acceptable
+2025-01-01,Royal Cornwall Hospitals NHS Trust,16669,3888,23.32,Acceptable
+2025-01-01,County Durham And Darlington NHS Foundation Trust,23341,5250,22.49,Acceptable
+2025-01-01,Blackpool Teaching Hospitals NHS Foundation Trust,18777,4192,22.33,Acceptable
+2025-01-01,"Barking, Havering And Redbridge University Hospitals NHS Trust",30468,6789,22.28,Acceptable
+2025-01-01,The Dudley Group NHS Foundation Trust,13698,3044,22.22,Acceptable
+2025-01-01,Homerton Healthcare NHS Foundation Trust,10961,2378,21.70,Acceptable
+2025-01-01,St George's University Hospitals NHS Foundation Trust,12655,2745,21.69,Acceptable
+2025-01-01,Alder Hey Children's NHS Foundation Trust,5771,1222,21.17,Acceptable
+2025-01-01,Kettering General Hospital NHS Foundation Trust,18701,3875,20.72,Acceptable
+2025-01-01,Norfolk And Norwich University Hospitals NHS Foundation Trust,20424,4154,20.34,Acceptable
+2025-01-01,West Hertfordshire Teaching Hospitals NHS Trust,15721,3102,19.73,Acceptable
+2025-01-01,Maidstone And Tunbridge Wells NHS Trust,21021,4008,19.07,Acceptable
+2025-01-01,North Tees And Hartlepool NHS Foundation Trust,15327,2863,18.68,Acceptable
+2025-01-01,The Royal Wolverhampton NHS Trust,20871,3821,18.31,Acceptable
+2025-01-01,Bradford Teaching Hospitals NHS Foundation Trust,12759,2289,17.94,Acceptable
+2025-01-01,Birmingham Women's And Children's NHS Foundation Trust,4731,744,15.73,Acceptable
+2025-01-01,Northumbria Healthcare NHS Foundation Trust,20364,2783,13.67,Acceptable
+2025-01-01,Nottingham Citycare Partnership,5409,604,11.17,Acceptable
+2025-01-01,Liverpool Women's NHS Foundation Trust,1611,155,9.62,Acceptable
+2025-01-01,Bransholme Health Centre,3572,339,9.49,Acceptable
+2025-01-01,Oxford Health NHS Foundation Trust,3531,314,8.89,Acceptable
+2025-01-01,Wirral Community Health And Care NHS Foundation Trust,4232,265,6.26,Acceptable
+2025-01-01,Sheffield Children's NHS Foundation Trust,4765,287,6.02,Acceptable
+2025-01-01,Practice Plus Group Hospital - Southampton,5148,268,5.21,Acceptable
+2025-01-01,East Riding Community Hospital,2563,128,4.99,Acceptable
+2025-01-01,Sirona Care & Health,8056,378,4.69,Acceptable
+2025-01-01,Ashford Walk-In-Centre,2292,91,3.97,Acceptable
+2025-01-01,Lincolnshire Community Health Services NHS Trust,7706,273,3.54,Acceptable
+2025-01-01,Hertfordshire Community NHS Trust,1125,37,3.29,Acceptable
+2025-01-01,North East London NHS Foundation Trust,1674,46,2.75,Acceptable
+2025-01-01,Herts Urgent Care (Ascots Lane),2063,56,2.71,Acceptable
+2025-01-01,Practice Plus Group Surgical Centre - St Marys Portsmouth,5419,131,2.42,Acceptable
+2025-01-01,Urgent Care Centre (Qms),8228,179,2.18,Acceptable
+2025-01-01,South Western Ambulance Service NHS Foundation Trust,1635,35,2.14,Acceptable
+2025-01-01,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,2632,56,2.13,Acceptable
+2025-01-01,Moorfields Eye Hospital NHS Foundation Trust,5778,117,2.02,Acceptable
+2025-01-01,Bridlington Hospital,1306,26,1.99,Acceptable
+2025-01-01,Woking Walk In Centre,2535,48,1.89,Acceptable
+2025-01-01,Central London Community Healthcare NHS Trust,12482,174,1.39,Acceptable
+2025-01-01,Bridgewater Community Healthcare NHS Foundation Trust,3098,41,1.32,Acceptable
+2025-01-01,Berkshire Healthcare NHS Foundation Trust,1264,16,1.27,Acceptable
+2025-01-01,Mersey Care NHS Foundation Trust,12806,162,1.27,Acceptable
+2025-01-01,Derbyshire Community Health Services NHS Foundation Trust,8066,94,1.17,Acceptable
+2025-01-01,Beckenham Beacon Ucc,3803,33,0.87,Acceptable
+2025-01-01,Sussex Community NHS Foundation Trust,11327,87,0.77,Acceptable
+2025-01-01,Humber Teaching NHS Foundation Trust,1003,6,0.60,Acceptable
+2025-01-01,Loughborough Urgent Care Centre,7843,46,0.59,Acceptable
+2025-01-01,Gloucestershire Health And Care NHS Foundation Trust,7168,42,0.59,Acceptable
+2025-01-01,Paulton Memorial Hospital,913,5,0.55,Acceptable
+2025-01-01,Miriam Minor Emergency,1666,8,0.48,Acceptable
+2025-01-01,Barking Hospital Utc,2777,12,0.43,Acceptable
+2025-01-01,Wiltshire Health & Care,2116,9,0.43,Acceptable
+2025-01-01,Goole & District Hospital,1387,6,0.43,Acceptable
+2025-01-01,Local Care Direct,2291,9,0.39,Acceptable
+2025-01-01,Skelmersdale Walk In Centre,1730,6,0.35,Acceptable
+2025-01-01,Kent Community Health NHS Foundation Trust,9305,19,0.20,Acceptable
+2025-01-01,Harold Wood Polyclinic Utc,2825,4,0.14,Acceptable
+2025-01-01,Rossendale Miu & Ooh,920,1,0.11,Acceptable
+2025-01-01,Phl Lymington Utc,2657,3,0.11,Acceptable
+2025-01-01,Shropshire Community Health NHS Trust,2889,3,0.10,Acceptable
+2025-01-01,Queen Victoria Hospital NHS Foundation Trust,1279,1,0.08,Acceptable
+2025-01-01,Station Plaza Health Centre,1090,0,0.00,Acceptable
+2025-01-01,Reading Urgent Care Centre,1959,0,0.00,Acceptable
+2025-01-01,First Community Health And Care Cic,2070,0,0.00,Acceptable
+2025-01-01,Brighton Station Health Centre,1987,0,0.00,Acceptable
+2025-01-01,Whitstable Medical Practice,5162,0,0.00,Acceptable
+2025-01-01,Workington Health Limited,313,0,0.00,Acceptable
+2025-01-01,Summerfield Urgent Care Centre,3194,0,0.00,Acceptable
+2025-01-01,South Birmingham GP Walk In Centre,7079,0,0.00,Acceptable
+2025-01-01,Okehampton Medical Centre,77,0,0.00,Acceptable
+2025-01-01,Sleaford Medical Group,495,0,0.00,Acceptable
+2025-01-01,Oakham,430,0,0.00,Acceptable
+2025-01-01,Putnoe Walk In Centre,3234,0,0.00,Acceptable
+2025-01-01,Oadby,3890,0,0.00,Acceptable
+2025-01-01,The Pinn Unregistered Wic,897,0,0.00,Acceptable
+2025-01-01,Assura Vertis Urgent Care Centres (Birmingham),4432,0,0.00,Acceptable
+2025-01-01,Badger Ltd,1429,0,0.00,Acceptable
+2025-01-01,Tetbury Hospital Trust Ltd,599,0,0.00,Acceptable
+2025-01-01,Dhu Health Care C.I.C,1813,0,0.00,Acceptable
+2025-01-01,Erdington GP Health & Wellbeing Wic,2337,0,0.00,Acceptable
+2025-01-01,Latham House Medical Practice,305,0,0.00,Acceptable
+2025-01-01,Llr Ea - The Merlyn Vaz Health & Social Care Centre,2411,0,0.00,Acceptable
+2025-01-01,Market Harborough,677,0,0.00,Acceptable
+2025-01-01,Market Harborough Med.Ctr,247,0,0.00,Acceptable
+2025-01-01,Melton Mowbray,562,0,0.00,Acceptable
+2025-02-01,East Cheshire NHS Trust,3978,1970,49.52,Critical
+2025-02-01,The Shrewsbury And Telford Hospital NHS Trust,11533,5468,47.41,Critical
+2025-02-01,Nottingham University Hospitals NHS Trust,17026,8014,47.07,Critical
+2025-02-01,Barnsley Hospital NHS Foundation Trust,7895,3573,45.26,Critical
+2025-02-01,Royal United Hospitals Bath NHS Foundation Trust,7674,3269,42.60,Critical
+2025-02-01,University Hospital Southampton NHS Foundation Trust,12205,5196,42.57,Critical
+2025-02-01,Hull University Teaching Hospitals NHS Trust,12759,5387,42.22,Critical
+2025-02-01,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",7106,2929,41.22,Critical
+2025-02-01,Mid Cheshire Hospitals NHS Foundation Trust,8907,3642,40.89,Critical
+2025-02-01,North Bristol NHS Trust,7941,3225,40.61,Critical
+2025-02-01,Gloucestershire Hospitals NHS Foundation Trust,11727,4621,39.40,High
+2025-02-01,University Hospitals Of Leicester NHS Trust,21585,8464,39.21,High
+2025-02-01,Airedale NHS Foundation Trust,5862,2298,39.20,High
+2025-02-01,North Cumbria Integrated Care NHS Foundation Trust,9745,3791,38.90,High
+2025-02-01,Wirral University Teaching Hospital NHS Foundation Trust,9628,3706,38.49,High
+2025-02-01,Countess Of Chester Hospital NHS Foundation Trust,6519,2485,38.12,High
+2025-02-01,University Hospitals Birmingham NHS Foundation Trust,33141,12587,37.98,High
+2025-02-01,The Princess Alexandra Hospital NHS Trust,9911,3762,37.96,High
+2025-02-01,Warrington And Halton Teaching Hospitals NHS Foundation Trust,9119,3427,37.58,High
+2025-02-01,United Lincolnshire Teaching Hospitals NHS Trust,18090,6637,36.69,High
+2025-02-01,The Rotherham NHS Foundation Trust,8181,2971,36.32,High
+2025-02-01,Bolton NHS Foundation Trust,10660,3868,36.29,High
+2025-02-01,University Hospitals Bristol And Weston NHS Foundation Trust,16112,5835,36.22,High
+2025-02-01,James Paget University Hospitals NHS Foundation Trust,7675,2714,35.36,High
+2025-02-01,University Hospitals Of North Midlands NHS Trust,21858,7699,35.22,High
+2025-02-01,Hampshire Hospitals NHS Foundation Trust,12709,4415,34.74,High
+2025-02-01,University Hospitals Sussex NHS Foundation Trust,28188,9717,34.47,High
+2025-02-01,Lewisham And Greenwich NHS Trust,23252,7968,34.27,High
+2025-02-01,Surrey And Sussex Healthcare NHS Trust,9094,3108,34.18,High
+2025-02-01,Wye Valley NHS Trust,6490,2214,34.11,High
+2025-02-01,Worcestershire Acute Hospitals NHS Trust,16264,5503,33.84,High
+2025-02-01,York And Scarborough Teaching Hospitals NHS Foundation Trust,16359,5536,33.84,High
+2025-02-01,Mid Yorkshire Teaching NHS Trust,20339,6864,33.75,High
+2025-02-01,North West Anglia NHS Foundation Trust,17907,6021,33.62,High
+2025-02-01,University Hospitals Plymouth NHS Trust,12856,4319,33.60,High
+2025-02-01,Northampton General Hospital NHS Trust,11981,4023,33.58,High
+2025-02-01,Ashford And St Peter's Hospitals NHS Foundation Trust,9225,3070,33.28,High
+2025-02-01,Whittington Health NHS Trust,8215,2725,33.17,High
+2025-02-01,Royal Devon University Healthcare NHS Foundation Trust,15988,5284,33.05,High
+2025-02-01,Northern Care Alliance NHS Foundation Trust,31200,10304,33.03,High
+2025-02-01,Tameside And Glossop Integrated Care NHS Foundation Trust,10912,3593,32.93,High
+2025-02-01,West Suffolk NHS Foundation Trust,7381,2428,32.90,High
+2025-02-01,Salisbury NHS Foundation Trust,6123,2008,32.79,High
+2025-02-01,Mid And South Essex NHS Foundation Trust,30486,9968,32.70,High
+2025-02-01,South Warwickshire University NHS Foundation Trust,7543,2448,32.45,High
+2025-02-01,"Wrightington, Wigan And Leigh NHS Foundation Trust",11211,3615,32.25,High
+2025-02-01,Lancashire Teaching Hospitals NHS Foundation Trust,13924,4470,32.10,High
+2025-02-01,South Tyneside And Sunderland NHS Foundation Trust,18210,5831,32.02,High
+2025-02-01,University Hospitals Coventry And Warwickshire NHS Trust,18003,5752,31.95,High
+2025-02-01,Sherwood Forest Hospitals NHS Foundation Trust,15202,4842,31.85,High
+2025-02-01,Calderdale And Huddersfield NHS Foundation Trust,14096,4471,31.72,High
+2025-02-01,Portsmouth Hospitals University National Health Service Trust,15297,4808,31.43,High
+2025-02-01,University Hospitals Of Derby And Burton NHS Foundation Trust,26629,8324,31.26,High
+2025-02-01,Cambridge University Hospitals NHS Foundation Trust,15452,4825,31.23,High
+2025-02-01,Torbay And South Devon NHS Foundation Trust,8744,2723,31.14,High
+2025-02-01,Liverpool University Hospitals NHS Foundation Trust,23637,7310,30.93,High
+2025-02-01,East And North Hertfordshire NHS Trust,14915,4605,30.87,High
+2025-02-01,Stockport NHS Foundation Trust,8183,2499,30.54,High
+2025-02-01,Manchester University NHS Foundation Trust,40131,12242,30.51,High
+2025-02-01,George Eliot Hospital NHS Trust,7758,2358,30.39,High
+2025-02-01,University Hospitals Dorset NHS Foundation Trust,16181,4892,30.23,High
+2025-02-01,Barts Health NHS Trust,40669,12180,29.95,Acceptable
+2025-02-01,Oxford University Hospitals NHS Foundation Trust,16590,4851,29.24,Acceptable
+2025-02-01,Isle Of Wight NHS Trust,5769,1686,29.23,Acceptable
+2025-02-01,King's College Hospital NHS Foundation Trust,23436,6828,29.13,Acceptable
+2025-02-01,Chesterfield Royal Hospital NHS Foundation Trust,11980,3477,29.02,Acceptable
+2025-02-01,Northern Lincolnshire And Goole NHS Foundation Trust,14803,4277,28.89,Acceptable
+2025-02-01,The Hillingdon Hospitals NHS Foundation Trust,11609,3298,28.41,Acceptable
+2025-02-01,Frimley Health NHS Foundation Trust,32466,9051,27.88,Acceptable
+2025-02-01,East Sussex Healthcare NHS Trust,12660,3530,27.88,Acceptable
+2025-02-01,Royal Berkshire NHS Foundation Trust,14648,4062,27.73,Acceptable
+2025-02-01,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,16043,4430,27.61,Acceptable
+2025-02-01,Great Western Hospitals NHS Foundation Trust,9734,2676,27.49,Acceptable
+2025-02-01,Bedfordshire Hospitals NHS Foundation Trust,23687,6486,27.38,Acceptable
+2025-02-01,Sheffield Teaching Hospitals NHS Foundation Trust,17220,4703,27.31,Acceptable
+2025-02-01,Leeds Teaching Hospitals NHS Trust,28094,7582,26.99,Acceptable
+2025-02-01,Somerset NHS Foundation Trust,19417,5234,26.96,Acceptable
+2025-02-01,East Kent Hospitals University NHS Foundation Trust,23569,6319,26.81,Acceptable
+2025-02-01,Walsall Healthcare NHS Trust,12426,3328,26.78,Acceptable
+2025-02-01,Royal Free London NHS Foundation Trust,38525,10299,26.73,Acceptable
+2025-02-01,Epsom And St Helier University Hospitals NHS Trust,11777,3135,26.62,Acceptable
+2025-02-01,Milton Keynes University Hospital NHS Foundation Trust,12878,3415,26.52,Acceptable
+2025-02-01,Gateshead Health NHS Foundation Trust,8407,2223,26.44,Acceptable
+2025-02-01,Harrogate And District NHS Foundation Trust,5533,1445,26.12,Acceptable
+2025-02-01,London North West University Healthcare NHS Trust,26414,6895,26.10,Acceptable
+2025-02-01,Chelsea And Westminster Hospital NHS Foundation Trust,23922,6194,25.89,Acceptable
+2025-02-01,University College London Hospitals NHS Foundation Trust,12348,3195,25.87,Acceptable
+2025-02-01,Mersey And West Lancashire Teaching Hospitals NHS Trust,22373,5747,25.69,Acceptable
+2025-02-01,Sandwell And West Birmingham Hospitals NHS Trust,19657,5007,25.47,Acceptable
+2025-02-01,Croydon Health Services NHS Trust,16520,4204,25.45,Acceptable
+2025-02-01,Imperial College Healthcare NHS Trust,21334,5382,25.23,Acceptable
+2025-02-01,Royal Surrey County Hospital NHS Foundation Trust,8167,2037,24.94,Acceptable
+2025-02-01,South Tees Hospitals NHS Foundation Trust,16225,3992,24.60,Acceptable
+2025-02-01,East Suffolk And North Essex NHS Foundation Trust,26314,6448,24.50,Acceptable
+2025-02-01,Dartford And Gravesham NHS Trust,14415,3520,24.42,Acceptable
+2025-02-01,University Hospitals Of Morecambe Bay NHS Foundation Trust,11916,2817,23.64,Acceptable
+2025-02-01,Kingston And Richmond NHS Foundation Trust,14067,3313,23.55,Acceptable
+2025-02-01,Guy's And St Thomas' NHS Foundation Trust,15958,3727,23.36,Acceptable
+2025-02-01,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,18768,4364,23.25,Acceptable
+2025-02-01,"Barking, Havering And Redbridge University Hospitals NHS Trust",28146,6526,23.19,Acceptable
+2025-02-01,East Lancashire Hospitals NHS Trust,21470,4945,23.03,Acceptable
+2025-02-01,Royal Cornwall Hospitals NHS Trust,15886,3601,22.67,Acceptable
+2025-02-01,Medway NHS Foundation Trust,15312,3437,22.45,Acceptable
+2025-02-01,Dorset County Hospital NHS Foundation Trust,7369,1616,21.93,Acceptable
+2025-02-01,Buckinghamshire Healthcare NHS Trust,14192,3096,21.82,Acceptable
+2025-02-01,County Durham And Darlington NHS Foundation Trust,22475,4853,21.59,Acceptable
+2025-02-01,The Dudley Group NHS Foundation Trust,13128,2794,21.28,Acceptable
+2025-02-01,Alder Hey Children's NHS Foundation Trust,5570,1182,21.22,Acceptable
+2025-02-01,Blackpool Teaching Hospitals NHS Foundation Trust,18337,3861,21.06,Acceptable
+2025-02-01,Birmingham Women's And Children's NHS Foundation Trust,4700,982,20.89,Acceptable
+2025-02-01,Kettering General Hospital NHS Foundation Trust,17218,3596,20.89,Acceptable
+2025-02-01,Homerton Healthcare NHS Foundation Trust,10056,2077,20.65,Acceptable
+2025-02-01,West Hertfordshire Teaching Hospitals NHS Trust,14990,3024,20.17,Acceptable
+2025-02-01,Norfolk And Norwich University Hospitals NHS Foundation Trust,18193,3503,19.25,Acceptable
+2025-02-01,St George's University Hospitals NHS Foundation Trust,11443,2189,19.13,Acceptable
+2025-02-01,The Royal Wolverhampton NHS Trust,19778,3577,18.09,Acceptable
+2025-02-01,Bradford Teaching Hospitals NHS Foundation Trust,12265,2193,17.88,Acceptable
+2025-02-01,Maidstone And Tunbridge Wells NHS Trust,19888,3476,17.48,Acceptable
+2025-02-01,North Tees And Hartlepool NHS Foundation Trust,14777,2143,14.50,Acceptable
+2025-02-01,Northumbria Healthcare NHS Foundation Trust,19224,2773,14.42,Acceptable
+2025-02-01,Bransholme Health Centre,3281,403,12.28,Acceptable
+2025-02-01,Liverpool Women's NHS Foundation Trust,1530,178,11.63,Acceptable
+2025-02-01,Nottingham Citycare Partnership,5411,483,8.93,Acceptable
+2025-02-01,East Riding Community Hospital,2515,221,8.79,Acceptable
+2025-02-01,Oxford Health NHS Foundation Trust,3103,270,8.70,Acceptable
+2025-02-01,Sheffield Children's NHS Foundation Trust,4645,375,8.07,Acceptable
+2025-02-01,Bridgewater Community Healthcare NHS Foundation Trust,2857,162,5.67,Acceptable
+2025-02-01,Practice Plus Group Hospital - Southampton,4752,260,5.47,Acceptable
+2025-02-01,Sirona Care & Health,7829,385,4.92,Acceptable
+2025-02-01,Wirral Community Health And Care NHS Foundation Trust,3965,191,4.82,Acceptable
+2025-02-01,Ashford Walk-In-Centre,2144,93,4.34,Acceptable
+2025-02-01,Herts Urgent Care (Ascots Lane),1895,52,2.74,Acceptable
+2025-02-01,North East London NHS Foundation Trust,1349,37,2.74,Acceptable
+2025-02-01,Beckenham Beacon Ucc,3574,96,2.69,Acceptable
+2025-02-01,Lincolnshire Community Health Services NHS Trust,7310,168,2.30,Acceptable
+2025-02-01,Central London Community Healthcare NHS Trust,11689,264,2.26,Acceptable
+2025-02-01,Practice Plus Group Surgical Centre - St Marys Portsmouth,5253,115,2.19,Acceptable
+2025-02-01,Mersey Care NHS Foundation Trust,13023,273,2.10,Acceptable
+2025-02-01,Woking Walk In Centre,2412,36,1.49,Acceptable
+2025-02-01,Urgent Care Centre (Qms),7981,118,1.48,Acceptable
+2025-02-01,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,2518,37,1.47,Acceptable
+2025-02-01,Hertfordshire Community NHS Trust,1019,15,1.47,Acceptable
+2025-02-01,Bridlington Hospital,1248,18,1.44,Acceptable
+2025-02-01,Moorfields Eye Hospital NHS Foundation Trust,5007,65,1.30,Acceptable
+2025-02-01,South Western Ambulance Service NHS Foundation Trust,1648,18,1.09,Acceptable
+2025-02-01,Sussex Community NHS Foundation Trust,10491,101,0.96,Acceptable
+2025-02-01,Derbyshire Community Health Services NHS Foundation Trust,7816,71,0.91,Acceptable
+2025-02-01,Gloucestershire Health And Care NHS Foundation Trust,6854,56,0.82,Acceptable
+2025-02-01,Wiltshire Health & Care,2090,17,0.81,Acceptable
+2025-02-01,Berkshire Healthcare NHS Foundation Trust,1173,9,0.77,Acceptable
+2025-02-01,Goole & District Hospital,1361,10,0.73,Acceptable
+2025-02-01,Paulton Memorial Hospital,913,5,0.55,Acceptable
+2025-02-01,Queen Victoria Hospital NHS Foundation Trust,1197,6,0.50,Acceptable
+2025-02-01,Kent Community Health NHS Foundation Trust,8561,43,0.50,Acceptable
+2025-02-01,Barking Hospital Utc,2673,13,0.49,Acceptable
+2025-02-01,Loughborough Urgent Care Centre,7290,32,0.44,Acceptable
+2025-02-01,Local Care Direct,2323,9,0.39,Acceptable
+2025-02-01,Skelmersdale Walk In Centre,1730,6,0.35,Acceptable
+2025-02-01,Harold Wood Polyclinic Utc,2654,7,0.26,Acceptable
+2025-02-01,Rossendale Miu & Ooh,866,1,0.12,Acceptable
+2025-02-01,Oadby,3452,2,0.06,Acceptable
+2025-02-01,Dhu Health Care C.I.C,1821,1,0.05,Acceptable
+2025-02-01,Llr Ea - The Merlyn Vaz Health & Social Care Centre,2142,1,0.05,Acceptable
+2025-02-01,Phl Lymington Utc,2559,1,0.04,Acceptable
+2025-02-01,Melton Mowbray,459,0,0.00,Acceptable
+2025-02-01,Summerfield Urgent Care Centre,2969,0,0.00,Acceptable
+2025-02-01,South Birmingham GP Walk In Centre,6625,0,0.00,Acceptable
+2025-02-01,Sleaford Medical Group,490,0,0.00,Acceptable
+2025-02-01,Shropshire Community Health NHS Trust,2653,0,0.00,Acceptable
+2025-02-01,Oakham,413,0,0.00,Acceptable
+2025-02-01,Humber Teaching NHS Foundation Trust,998,0,0.00,Acceptable
+2025-02-01,Market Harborough Med.Ctr,281,0,0.00,Acceptable
+2025-02-01,Market Harborough,578,0,0.00,Acceptable
+2025-02-01,Workington Health Limited,279,0,0.00,Acceptable
+2025-02-01,Latham House Medical Practice,278,0,0.00,Acceptable
+2025-02-01,Erdington GP Health & Wellbeing Wic,1637,0,0.00,Acceptable
+2025-02-01,Badger Ltd,1300,0,0.00,Acceptable
+2025-02-01,Assura Vertis Urgent Care Centres (Birmingham),3811,0,0.00,Acceptable
+2025-02-01,Miriam Minor Emergency,1561,0,0.00,Acceptable
+2025-02-01,The Pinn Unregistered Wic,695,0,0.00,Acceptable
+2025-02-01,Brighton Station Health Centre,1819,0,0.00,Acceptable
+2025-02-01,First Community Health And Care Cic,1941,0,0.00,Acceptable
+2025-02-01,Reading Urgent Care Centre,1843,0,0.00,Acceptable
+2025-02-01,Station Plaza Health Centre,1079,0,0.00,Acceptable
+2025-02-01,Whitstable Medical Practice,4995,0,0.00,Acceptable
+2025-02-01,Okehampton Medical Centre,69,0,0.00,Acceptable
+2025-02-01,Putnoe Walk In Centre,3152,0,0.00,Acceptable
+2025-02-01,Tetbury Hospital Trust Ltd,545,0,0.00,Acceptable
+2025-03-01,East Cheshire NHS Trust,4584,2223,48.49,Critical
+2025-03-01,The Shrewsbury And Telford Hospital NHS Trust,13984,6645,47.52,Critical
+2025-03-01,Nottingham University Hospitals NHS Trust,15958,7498,46.99,Critical
+2025-03-01,Hull University Teaching Hospitals NHS Trust,14477,6007,41.49,Critical
+2025-03-01,Royal United Hospitals Bath NHS Foundation Trust,8762,3632,41.45,Critical
+2025-03-01,University Hospitals Of Leicester NHS Trust,24792,10180,41.06,Critical
+2025-03-01,Countess Of Chester Hospital NHS Foundation Trust,7696,3122,40.57,Critical
+2025-03-01,Mid Cheshire Hospitals NHS Foundation Trust,10467,4208,40.20,Critical
+2025-03-01,University Hospital Southampton NHS Foundation Trust,13210,5265,39.86,High
+2025-03-01,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",7992,3185,39.85,High
+2025-03-01,Nems Utc,3681,1464,39.77,High
+2025-03-01,Gloucestershire Hospitals NHS Foundation Trust,13769,5406,39.26,High
+2025-03-01,North Bristol NHS Trust,9215,3568,38.72,High
+2025-03-01,Airedale NHS Foundation Trust,6665,2541,38.12,High
+2025-03-01,Wirral University Teaching Hospital NHS Foundation Trust,11355,4299,37.86,High
+2025-03-01,University Hospitals Birmingham NHS Foundation Trust,37302,13891,37.24,High
+2025-03-01,James Paget University Hospitals NHS Foundation Trust,9024,3330,36.90,High
+2025-03-01,Wye Valley NHS Trust,7623,2803,36.77,High
+2025-03-01,Warrington And Halton Teaching Hospitals NHS Foundation Trust,10623,3815,35.91,High
+2025-03-01,Surrey And Sussex Healthcare NHS Trust,10472,3739,35.70,High
+2025-03-01,North Cumbria Integrated Care NHS Foundation Trust,11194,3992,35.66,High
+2025-03-01,University Hospitals Of North Midlands NHS Trust,25413,9001,35.42,High
+2025-03-01,York And Scarborough Teaching Hospitals NHS Foundation Trust,18401,6425,34.92,High
+2025-03-01,The Rotherham NHS Foundation Trust,9434,3256,34.51,High
+2025-03-01,Ashford And St Peter's Hospitals NHS Foundation Trust,10757,3695,34.35,High
+2025-03-01,Lewisham And Greenwich NHS Trust,26131,8951,34.25,High
+2025-03-01,Northampton General Hospital NHS Trust,13600,4655,34.23,High
+2025-03-01,University Hospitals Plymouth NHS Trust,15188,5197,34.22,High
+2025-03-01,Worcestershire Acute Hospitals NHS Trust,20008,6809,34.03,High
+2025-03-01,Hampshire Hospitals NHS Foundation Trust,15090,5112,33.88,High
+2025-03-01,George Eliot Hospital NHS Trust,8872,2985,33.65,High
+2025-03-01,Mid And South Essex NHS Foundation Trust,35771,11893,33.25,High
+2025-03-01,Royal Devon University Healthcare NHS Foundation Trust,18292,6075,33.21,High
+2025-03-01,University Hospitals Sussex NHS Foundation Trust,32619,10780,33.05,High
+2025-03-01,North West Anglia NHS Foundation Trust,20429,6723,32.91,High
+2025-03-01,Isle Of Wight NHS Trust,6057,1983,32.74,High
+2025-03-01,Liverpool University Hospitals NHS Foundation Trust,26247,8523,32.47,High
+2025-03-01,University Hospitals Bristol And Weston NHS Foundation Trust,18635,5955,31.96,High
+2025-03-01,Oxford University Hospitals NHS Foundation Trust,18587,5865,31.55,High
+2025-03-01,Northern Care Alliance NHS Foundation Trust,34714,10846,31.24,High
+2025-03-01,Tameside And Glossop Integrated Care NHS Foundation Trust,12316,3833,31.12,High
+2025-03-01,Stockport NHS Foundation Trust,11101,3443,31.02,High
+2025-03-01,Lancashire Teaching Hospitals NHS Foundation Trust,15778,4880,30.93,High
+2025-03-01,South Warwickshire University NHS Foundation Trust,8861,2732,30.83,High
+2025-03-01,The Princess Alexandra Hospital NHS Trust,11340,3474,30.63,High
+2025-03-01,United Lincolnshire Teaching Hospitals NHS Trust,20489,6229,30.40,High
+2025-03-01,Torbay And South Devon NHS Foundation Trust,10567,3187,30.16,High
+2025-03-01,Portsmouth Hospitals University National Health Service Trust,17399,5224,30.02,High
+2025-03-01,Great Western Hospitals NHS Foundation Trust,11314,3386,29.93,Acceptable
+2025-03-01,Royal Berkshire NHS Foundation Trust,17725,5236,29.54,Acceptable
+2025-03-01,Mid Yorkshire Teaching NHS Trust,23650,6985,29.53,Acceptable
+2025-03-01,University Hospitals Of Derby And Burton NHS Foundation Trust,31343,9192,29.33,Acceptable
+2025-03-01,Chesterfield Royal Hospital NHS Foundation Trust,14335,4184,29.19,Acceptable
+2025-03-01,Barts Health NHS Trust,44872,13067,29.12,Acceptable
+2025-03-01,Salisbury NHS Foundation Trust,7090,2057,29.01,Acceptable
+2025-03-01,East Sussex Healthcare NHS Trust,14874,4298,28.90,Acceptable
+2025-03-01,Cambridge University Hospitals NHS Foundation Trust,17817,5092,28.58,Acceptable
+2025-03-01,Northern Lincolnshire And Goole NHS Foundation Trust,16975,4836,28.49,Acceptable
+2025-03-01,"Wrightington, Wigan And Leigh NHS Foundation Trust",12790,3618,28.29,Acceptable
+2025-03-01,Bolton NHS Foundation Trust,12332,3473,28.16,Acceptable
+2025-03-01,Bedfordshire Hospitals NHS Foundation Trust,26625,7473,28.07,Acceptable
+2025-03-01,Whittington Health NHS Trust,9282,2600,28.01,Acceptable
+2025-03-01,University Hospitals Dorset NHS Foundation Trust,19229,5364,27.90,Acceptable
+2025-03-01,University Hospitals Of Morecambe Bay NHS Foundation Trust,14157,3940,27.83,Acceptable
+2025-03-01,King's College Hospital NHS Foundation Trust,26490,7366,27.81,Acceptable
+2025-03-01,Somerset NHS Foundation Trust,23053,6409,27.80,Acceptable
+2025-03-01,University Hospitals Coventry And Warwickshire NHS Trust,20740,5763,27.79,Acceptable
+2025-03-01,University College London Hospitals NHS Foundation Trust,13948,3789,27.17,Acceptable
+2025-03-01,Frimley Health NHS Foundation Trust,36779,9923,26.98,Acceptable
+2025-03-01,Sheffield Teaching Hospitals NHS Foundation Trust,19009,5113,26.90,Acceptable
+2025-03-01,East And North Hertfordshire NHS Trust,17994,4716,26.21,Acceptable
+2025-03-01,Manchester University NHS Foundation Trust,45364,11835,26.09,Acceptable
+2025-03-01,Epsom And St Helier University Hospitals NHS Trust,13718,3549,25.87,Acceptable
+2025-03-01,Mersey And West Lancashire Teaching Hospitals NHS Trust,25868,6653,25.72,Acceptable
+2025-03-01,South Tyneside And Sunderland NHS Foundation Trust,21350,5487,25.70,Acceptable
+2025-03-01,Milton Keynes University Hospital NHS Foundation Trust,14739,3765,25.54,Acceptable
+2025-03-01,Gateshead Health NHS Foundation Trust,9903,2521,25.46,Acceptable
+2025-03-01,East Kent Hospitals University NHS Foundation Trust,26108,6642,25.44,Acceptable
+2025-03-01,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,18457,4663,25.26,Acceptable
+2025-03-01,Royal Free London NHS Foundation Trust,42976,10830,25.20,Acceptable
+2025-03-01,Sandwell And West Birmingham Hospitals NHS Trust,21673,5416,24.99,Acceptable
+2025-03-01,Sherwood Forest Hospitals NHS Foundation Trust,18037,4478,24.83,Acceptable
+2025-03-01,Walsall Healthcare NHS Trust,14050,3470,24.70,Acceptable
+2025-03-01,South Tees Hospitals NHS Foundation Trust,18729,4574,24.42,Acceptable
+2025-03-01,The Hillingdon Hospitals NHS Foundation Trust,13128,3179,24.22,Acceptable
+2025-03-01,Royal Surrey County Hospital NHS Foundation Trust,9442,2281,24.16,Acceptable
+2025-03-01,Imperial College Healthcare NHS Trust,23723,5727,24.14,Acceptable
+2025-03-01,Dartford And Gravesham NHS Trust,15873,3711,23.38,Acceptable
+2025-03-01,Medway NHS Foundation Trust,17575,3967,22.57,Acceptable
+2025-03-01,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,21262,4775,22.46,Acceptable
+2025-03-01,Royal Cornwall Hospitals NHS Trust,19141,4203,21.96,Acceptable
+2025-03-01,London North West University Healthcare NHS Trust,29776,6518,21.89,Acceptable
+2025-03-01,Kingston And Richmond NHS Foundation Trust,16242,3544,21.82,Acceptable
+2025-03-01,East Suffolk And North Essex NHS Foundation Trust,28680,6203,21.63,Acceptable
+2025-03-01,"Barking, Havering And Redbridge University Hospitals NHS Trust",31186,6740,21.61,Acceptable
+2025-03-01,Buckinghamshire Healthcare NHS Trust,16000,3382,21.14,Acceptable
+2025-03-01,Harrogate And District NHS Foundation Trust,6505,1372,21.09,Acceptable
+2025-03-01,Guy's And St Thomas' NHS Foundation Trust,18104,3779,20.87,Acceptable
+2025-03-01,Leeds Teaching Hospitals NHS Trust,31586,6545,20.72,Acceptable
+2025-03-01,Blackpool Teaching Hospitals NHS Foundation Trust,20766,4235,20.39,Acceptable
+2025-03-01,East Lancashire Hospitals NHS Trust,24513,4979,20.31,Acceptable
+2025-03-01,County Durham And Darlington NHS Foundation Trust,25748,5213,20.25,Acceptable
+2025-03-01,Alder Hey Children's NHS Foundation Trust,6446,1301,20.18,Acceptable
+2025-03-01,Chelsea And Westminster Hospital NHS Foundation Trust,27155,5455,20.09,Acceptable
+2025-03-01,Kettering General Hospital NHS Foundation Trust,19547,3870,19.80,Acceptable
+2025-03-01,Barnsley Hospital NHS Foundation Trust,9293,1838,19.78,Acceptable
+2025-03-01,The Dudley Group NHS Foundation Trust,15337,2992,19.51,Acceptable
+2025-03-01,The Royal Wolverhampton NHS Trust,22536,4147,18.40,Acceptable
+2025-03-01,Calderdale And Huddersfield NHS Foundation Trust,16307,2976,18.25,Acceptable
+2025-03-01,Norfolk And Norwich University Hospitals NHS Foundation Trust,21185,3867,18.25,Acceptable
+2025-03-01,West Hertfordshire Teaching Hospitals NHS Trust,17189,3115,18.12,Acceptable
+2025-03-01,Croydon Health Services NHS Trust,18374,3289,17.90,Acceptable
+2025-03-01,Homerton Healthcare NHS Foundation Trust,11231,1927,17.16,Acceptable
+2025-03-01,Bradford Teaching Hospitals NHS Foundation Trust,13545,2308,17.04,Acceptable
+2025-03-01,St George's University Hospitals NHS Foundation Trust,13356,2185,16.36,Acceptable
+2025-03-01,Bransholme Health Centre,3661,575,15.71,Acceptable
+2025-03-01,Dorset County Hospital NHS Foundation Trust,9043,1416,15.66,Acceptable
+2025-03-01,Maidstone And Tunbridge Wells NHS Trust,21718,3233,14.89,Acceptable
+2025-03-01,North Tees And Hartlepool NHS Foundation Trust,16958,2441,14.39,Acceptable
+2025-03-01,Birmingham Women's And Children's NHS Foundation Trust,5330,656,12.31,Acceptable
+2025-03-01,Nottingham Citycare Partnership,6067,721,11.88,Acceptable
+2025-03-01,West Suffolk NHS Foundation Trust,9090,1055,11.61,Acceptable
+2025-03-01,Oxford Health NHS Foundation Trust,3656,419,11.46,Acceptable
+2025-03-01,Liverpool Women's NHS Foundation Trust,1632,176,10.78,Acceptable
+2025-03-01,Northumbria Healthcare NHS Foundation Trust,23568,2538,10.77,Acceptable
+2025-03-01,East Riding Community Hospital,2943,287,9.75,Acceptable
+2025-03-01,Sheffield Children's NHS Foundation Trust,5630,531,9.43,Acceptable
+2025-03-01,Wirral Community Health And Care NHS Foundation Trust,4551,402,8.83,Acceptable
+2025-03-01,Practice Plus Group Hospital - Southampton,5772,350,6.06,Acceptable
+2025-03-01,Herts Urgent Care (Ascots Lane),2413,124,5.14,Acceptable
+2025-03-01,Sirona Care & Health,9729,434,4.46,Acceptable
+2025-03-01,Bridlington Hospital,1464,63,4.30,Acceptable
+2025-03-01,North East London NHS Foundation Trust,2006,75,3.74,Acceptable
+2025-03-01,Bridgewater Community Healthcare NHS Foundation Trust,3210,106,3.30,Acceptable
+2025-03-01,Central London Community Healthcare NHS Trust,13349,416,3.12,Acceptable
+2025-03-01,Hertfordshire Community NHS Trust,1223,38,3.11,Acceptable
+2025-03-01,Mersey Care NHS Foundation Trust,14217,405,2.85,Acceptable
+2025-03-01,Lincolnshire Community Health Services NHS Trust,8775,250,2.85,Acceptable
+2025-03-01,Practice Plus Group Surgical Centre - St Marys Portsmouth,5950,147,2.47,Acceptable
+2025-03-01,Urgent Care Centre (Qms),8643,184,2.13,Acceptable
+2025-03-01,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,3122,64,2.05,Acceptable
+2025-03-01,Moorfields Eye Hospital NHS Foundation Trust,5789,92,1.59,Acceptable
+2025-03-01,Gloucestershire Health And Care NHS Foundation Trust,8527,126,1.48,Acceptable
+2025-03-01,Derbyshire Community Health Services NHS Foundation Trust,9607,129,1.34,Acceptable
+2025-03-01,Goole & District Hospital,1680,20,1.19,Acceptable
+2025-03-01,Barking Hospital Utc,2910,30,1.03,Acceptable
+2025-03-01,Ashford Walk-In-Centre,2374,23,0.97,Acceptable
+2025-03-01,Sussex Community NHS Foundation Trust,12570,121,0.96,Acceptable
+2025-03-01,Humber Teaching NHS Foundation Trust,1076,10,0.93,Acceptable
+2025-03-01,South Western Ambulance Service NHS Foundation Trust,1939,16,0.83,Acceptable
+2025-03-01,Paulton Memorial Hospital,913,5,0.55,Acceptable
+2025-03-01,Berkshire Healthcare NHS Foundation Trust,1479,8,0.54,Acceptable
+2025-03-01,Phl Lymington Utc,3129,16,0.51,Acceptable
+2025-03-01,Woking Walk In Centre,2683,12,0.45,Acceptable
+2025-03-01,Queen Victoria Hospital NHS Foundation Trust,1400,6,0.43,Acceptable
+2025-03-01,Local Care Direct,2452,9,0.37,Acceptable
+2025-03-01,Skelmersdale Walk In Centre,1730,6,0.35,Acceptable
+2025-03-01,Loughborough Urgent Care Centre,8172,28,0.34,Acceptable
+2025-03-01,Kent Community Health NHS Foundation Trust,9690,32,0.33,Acceptable
+2025-03-01,Beckenham Beacon Ucc,4089,11,0.27,Acceptable
+2025-03-01,Harold Wood Polyclinic Utc,2364,5,0.21,Acceptable
+2025-03-01,Shropshire Community Health NHS Trust,3251,6,0.18,Acceptable
+2025-03-01,Rossendale Miu & Ooh,1122,1,0.09,Acceptable
+2025-03-01,Reading Urgent Care Centre,2020,0,0.00,Acceptable
+2025-03-01,Putnoe Walk In Centre,3139,0,0.00,Acceptable
+2025-03-01,Summerfield Urgent Care Centre,3151,0,0.00,Acceptable
+2025-03-01,South Birmingham GP Walk In Centre,7113,0,0.00,Acceptable
+2025-03-01,Workington Health Limited,336,0,0.00,Acceptable
+2025-03-01,Sleaford Medical Group,540,0,0.00,Acceptable
+2025-03-01,Oakham,406,0,0.00,Acceptable
+2025-03-01,Oadby,3850,0,0.00,Acceptable
+2025-03-01,Miriam Minor Emergency,1709,0,0.00,Acceptable
+2025-03-01,Melton Mowbray,451,0,0.00,Acceptable
+2025-03-01,Market Harborough Med.Ctr,315,0,0.00,Acceptable
+2025-03-01,Market Harborough,581,0,0.00,Acceptable
+2025-03-01,Brighton Station Health Centre,2040,0,0.00,Acceptable
+2025-03-01,First Community Health And Care Cic,2464,0,0.00,Acceptable
+2025-03-01,The Pinn Unregistered Wic,603,0,0.00,Acceptable
+2025-03-01,Assura Vertis Urgent Care Centres (Birmingham),3164,0,0.00,Acceptable
+2025-03-01,Tetbury Hospital Trust Ltd,707,0,0.00,Acceptable
+2025-03-01,Badger Ltd,1438,0,0.00,Acceptable
+2025-03-01,Okehampton Medical Centre,87,0,0.00,Acceptable
+2025-03-01,Dhu Health Care C.I.C,2055,0,0.00,Acceptable
+2025-03-01,Erdington GP Health & Wellbeing Wic,1942,0,0.00,Acceptable
+2025-03-01,Whitstable Medical Practice,5414,0,0.00,Acceptable
+2025-03-01,Latham House Medical Practice,350,0,0.00,Acceptable
+2025-03-01,Llr Ea - The Merlyn Vaz Health & Social Care Centre,2412,0,0.00,Acceptable
+2025-03-01,Station Plaza Health Centre,1024,0,0.00,Acceptable
+2025-04-01,The Shrewsbury And Telford Hospital NHS Trust,13251,7027,53.03,Critical
+2025-04-01,East Cheshire NHS Trust,4559,2314,50.76,Critical
+2025-04-01,Nottingham University Hospitals NHS Trust,14649,6736,45.98,Critical
+2025-04-01,Hull University Teaching Hospitals NHS Trust,13767,6010,43.66,Critical
+2025-04-01,Mid Cheshire Hospitals NHS Foundation Trust,9404,4072,43.30,Critical
+2025-04-01,Wye Valley NHS Trust,7241,3084,42.59,Critical
+2025-04-01,Royal United Hospitals Bath NHS Foundation Trust,8660,3622,41.82,Critical
+2025-04-01,University Hospitals Of Leicester NHS Trust,23204,9346,40.28,Critical
+2025-04-01,University Hospitals Birmingham NHS Foundation Trust,36794,14749,40.09,Critical
+2025-04-01,Countess Of Chester Hospital NHS Foundation Trust,7455,2974,39.89,High
+2025-04-01,North Bristol NHS Trust,8875,3496,39.39,High
+2025-04-01,Gloucestershire Hospitals NHS Foundation Trust,13358,5236,39.20,High
+2025-04-01,Worcestershire Acute Hospitals NHS Trust,19507,7623,39.08,High
+2025-04-01,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",7816,3021,38.65,High
+2025-04-01,Surrey And Sussex Healthcare NHS Trust,10067,3783,37.58,High
+2025-04-01,Wirral University Teaching Hospital NHS Foundation Trust,10545,3891,36.90,High
+2025-04-01,James Paget University Hospitals NHS Foundation Trust,8818,3244,36.79,High
+2025-04-01,University Hospital Southampton NHS Foundation Trust,12898,4691,36.37,High
+2025-04-01,York And Scarborough Teaching Hospitals NHS Foundation Trust,17739,6430,36.25,High
+2025-04-01,North Cumbria Integrated Care NHS Foundation Trust,11397,4098,35.96,High
+2025-04-01,Warrington And Halton Teaching Hospitals NHS Foundation Trust,10547,3718,35.25,High
+2025-04-01,Hampshire Hospitals NHS Foundation Trust,14339,5000,34.87,High
+2025-04-01,Lewisham And Greenwich NHS Trust,24609,8500,34.54,High
+2025-04-01,University Hospitals Of North Midlands NHS Trust,24280,8321,34.27,High
+2025-04-01,Northampton General Hospital NHS Trust,12668,4308,34.01,High
+2025-04-01,Tameside And Glossop Integrated Care NHS Foundation Trust,11874,4014,33.80,High
+2025-04-01,Bolton NHS Foundation Trust,11924,4015,33.67,High
+2025-04-01,Airedale NHS Foundation Trust,6729,2246,33.38,High
+2025-04-01,Mid And South Essex NHS Foundation Trust,33512,11079,33.06,High
+2025-04-01,University Hospitals Plymouth NHS Trust,14545,4794,32.96,High
+2025-04-01,Barnsley Hospital NHS Foundation Trust,8914,2936,32.94,High
+2025-04-01,Liverpool University Hospitals NHS Foundation Trust,25638,8446,32.94,High
+2025-04-01,University Hospitals Sussex NHS Foundation Trust,31456,10142,32.24,High
+2025-04-01,University Hospitals Bristol And Weston NHS Foundation Trust,17384,5599,32.21,High
+2025-04-01,Northern Care Alliance NHS Foundation Trust,33638,10788,32.07,High
+2025-04-01,United Lincolnshire Teaching Hospitals NHS Trust,20004,6400,31.99,High
+2025-04-01,The Princess Alexandra Hospital NHS Trust,10025,3194,31.86,High
+2025-04-01,Stockport NHS Foundation Trust,10136,3211,31.68,High
+2025-04-01,North West Anglia NHS Foundation Trust,19167,5991,31.26,High
+2025-04-01,The Rotherham NHS Foundation Trust,8977,2806,31.26,High
+2025-04-01,Salisbury NHS Foundation Trust,7070,2179,30.82,High
+2025-04-01,Royal Devon University Healthcare NHS Foundation Trust,17644,5397,30.59,High
+2025-04-01,Northern Lincolnshire And Goole NHS Foundation Trust,16551,5032,30.40,High
+2025-04-01,Great Western Hospitals NHS Foundation Trust,11033,3354,30.40,High
+2025-04-01,Portsmouth Hospitals University NHS Trust,16335,4899,29.99,Acceptable
+2025-04-01,Barts Health NHS Trust,44402,13311,29.98,Acceptable
+2025-04-01,Isle Of Wight NHS Trust,6186,1849,29.89,Acceptable
+2025-04-01,Whittington Health NHS Trust,8831,2619,29.66,Acceptable
+2025-04-01,Manchester University NHS Foundation Trust,43674,12875,29.48,Acceptable
+2025-04-01,Lancashire Teaching Hospitals NHS Foundation Trust,15549,4575,29.42,Acceptable
+2025-04-01,University Hospitals Dorset NHS Foundation Trust,19084,5603,29.36,Acceptable
+2025-04-01,Frimley Health NHS Foundation Trust,34112,9953,29.18,Acceptable
+2025-04-01,Chesterfield Royal Hospital NHS Foundation Trust,13493,3930,29.13,Acceptable
+2025-04-01,Mid Yorkshire Teaching NHS Trust,22657,6560,28.95,Acceptable
+2025-04-01,Royal Berkshire NHS Foundation Trust,16083,4620,28.73,Acceptable
+2025-04-01,South Tyneside And Sunderland NHS Foundation Trust,20814,5978,28.72,Acceptable
+2025-04-01,Somerset NHS Foundation Trust,22152,6356,28.69,Acceptable
+2025-04-01,University Hospitals Of Derby And Burton NHS Foundation Trust,31426,8991,28.61,Acceptable
+2025-04-01,"Wrightington, Wigan And Leigh NHS Foundation Trust",12138,3469,28.58,Acceptable
+2025-04-01,University College London Hospitals NHS Foundation Trust,13426,3829,28.52,Acceptable
+2025-04-01,Sheffield Teaching Hospitals NHS Foundation Trust,18666,5191,27.81,Acceptable
+2025-04-01,George Eliot Hospital NHS Trust,8478,2335,27.54,Acceptable
+2025-04-01,South Warwickshire University NHS Foundation Trust,8266,2271,27.47,Acceptable
+2025-04-01,Gateshead Health NHS Foundation Trust,9868,2709,27.45,Acceptable
+2025-04-01,Torbay And South Devon NHS Foundation Trust,10208,2789,27.32,Acceptable
+2025-04-01,University Hospitals Coventry And Warwickshire NHS Trust,19197,5227,27.23,Acceptable
+2025-04-01,King's College Hospital NHS Foundation Trust,25627,6896,26.91,Acceptable
+2025-04-01,East And North Hertfordshire NHS Trust,17105,4595,26.86,Acceptable
+2025-04-01,Bedfordshire Hospitals NHS Foundation Trust,24959,6626,26.55,Acceptable
+2025-04-01,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,17990,4758,26.45,Acceptable
+2025-04-01,Cambridge University Hospitals NHS Foundation Trust,16379,4291,26.20,Acceptable
+2025-04-01,Epsom And St Helier University Hospitals NHS Trust,13088,3418,26.12,Acceptable
+2025-04-01,Royal Free London NHS Foundation Trust,41463,10825,26.11,Acceptable
+2025-04-01,Dartford And Gravesham NHS Trust,15145,3933,25.97,Acceptable
+2025-04-01,University Hospitals Of Morecambe Bay NHS Foundation Trust,13602,3481,25.59,Acceptable
+2025-04-01,Mersey And West Lancashire Teaching Hospitals NHS Trust,24332,6174,25.37,Acceptable
+2025-04-01,Ashford And St Peter's Hospitals NHS Foundation Trust,14951,3789,25.34,Acceptable
+2025-04-01,The Hillingdon Hospitals NHS Foundation Trust,12770,3223,25.24,Acceptable
+2025-04-01,Imperial College Healthcare NHS Trust,23149,5745,24.82,Acceptable
+2025-04-01,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,19923,4943,24.81,Acceptable
+2025-04-01,Oxford University Hospitals NHS Foundation Trust,19290,4724,24.49,Acceptable
+2025-04-01,Royal Surrey County Hospital NHS Foundation Trust,8956,2188,24.43,Acceptable
+2025-04-01,The Dudley Group NHS Foundation Trust,14332,3482,24.30,Acceptable
+2025-04-01,Walsall Healthcare NHS Trust,13485,3260,24.18,Acceptable
+2025-04-01,Sandwell And West Birmingham Hospitals NHS Trust,20730,4973,23.99,Acceptable
+2025-04-01,Leeds Teaching Hospitals NHS Trust,30208,7227,23.92,Acceptable
+2025-04-01,East Kent Hospitals University NHS Foundation Trust,24686,5883,23.83,Acceptable
+2025-04-01,Kingston And Richmond NHS Foundation Trust,15151,3608,23.81,Acceptable
+2025-04-01,London North West University Healthcare NHS Trust,28542,6662,23.34,Acceptable
+2025-04-01,South Tees Hospitals NHS Foundation Trust,18621,4279,22.98,Acceptable
+2025-04-01,Nems Utc,3399,777,22.86,Acceptable
+2025-04-01,Guy's And St Thomas' NHS Foundation Trust,17442,3966,22.74,Acceptable
+2025-04-01,Sherwood Forest Hospitals NHS Foundation Trust,16552,3755,22.69,Acceptable
+2025-04-01,East Sussex Healthcare NHS Trust,14339,3221,22.46,Acceptable
+2025-04-01,Medway NHS Foundation Trust,16997,3751,22.07,Acceptable
+2025-04-01,Blackpool Teaching Hospitals NHS Foundation Trust,20016,4417,22.07,Acceptable
+2025-04-01,East Suffolk And North Essex NHS Foundation Trust,26780,5782,21.59,Acceptable
+2025-04-01,"Barking, Havering And Redbridge University Hospitals NHS Trust",29723,6393,21.51,Acceptable
+2025-04-01,Kettering General Hospital NHS Foundation Trust,18537,3878,20.92,Acceptable
+2025-04-01,Croydon Health Services NHS Trust,17535,3660,20.87,Acceptable
+2025-04-01,Royal Cornwall Hospitals NHS Trust,19195,3982,20.74,Acceptable
+2025-04-01,County Durham And Darlington NHS Foundation Trust,25183,5194,20.63,Acceptable
+2025-04-01,Buckinghamshire Healthcare NHS Trust,14764,3034,20.55,Acceptable
+2025-04-01,Norfolk And Norwich University Hospitals NHS Foundation Trust,20322,4023,19.80,Acceptable
+2025-04-01,Milton Keynes University Hospital NHS Foundation Trust,13695,2701,19.72,Acceptable
+2025-04-01,East Lancashire Hospitals NHS Trust,23684,4637,19.58,Acceptable
+2025-04-01,West Suffolk NHS Foundation Trust,8418,1570,18.65,Acceptable
+2025-04-01,Harrogate And District NHS Foundation Trust,6221,1145,18.41,Acceptable
+2025-04-01,Chelsea And Westminster Hospital NHS Foundation Trust,25589,4653,18.18,Acceptable
+2025-04-01,Dorset County Hospital NHS Foundation Trust,9149,1647,18.00,Acceptable
+2025-04-01,Homerton Healthcare NHS Foundation Trust,10777,1940,18.00,Acceptable
+2025-04-01,Maidstone And Tunbridge Wells NHS Trust,21325,3834,17.98,Acceptable
+2025-04-01,The Royal Wolverhampton NHS Trust,21550,3749,17.40,Acceptable
+2025-04-01,Calderdale And Huddersfield NHS Foundation Trust,15871,2746,17.30,Acceptable
+2025-04-01,Bradford Teaching Hospitals NHS Foundation Trust,13310,2270,17.05,Acceptable
+2025-04-01,North Tees And Hartlepool NHS Foundation Trust,16639,2781,16.71,Acceptable
+2025-04-01,Bransholme Health Centre,3556,584,16.42,Acceptable
+2025-04-01,St George's University Hospitals NHS Foundation Trust,12519,2039,16.29,Acceptable
+2025-04-01,West Hertfordshire Teaching Hospitals NHS Trust,16203,2537,15.66,Acceptable
+2025-04-01,Alder Hey Children's NHS Foundation Trust,5674,804,14.17,Acceptable
+2025-04-01,Nottingham Citycare Partnership,5251,582,11.08,Acceptable
+2025-04-01,Northumbria Healthcare NHS Foundation Trust,23336,2566,11.00,Acceptable
+2025-04-01,Liverpool Women's NHS Foundation Trust,1535,168,10.94,Acceptable
+2025-04-01,Birmingham Women's And Children's NHS Foundation Trust,4837,479,9.90,Acceptable
+2025-04-01,East Riding Community Hospital,3043,231,7.59,Acceptable
+2025-04-01,Oxford Health NHS Foundation Trust,4227,292,6.91,Acceptable
+2025-04-01,Sheffield Children's NHS Foundation Trust,4827,322,6.67,Acceptable
+2025-04-01,Wirral Community Health And Care NHS Foundation Trust,4134,265,6.41,Acceptable
+2025-04-01,Bridgewater Community Healthcare NHS Foundation Trust,3212,182,5.67,Acceptable
+2025-04-01,Sirona Care & Health,9107,373,4.10,Acceptable
+2025-04-01,Herts Urgent Care (Ascots Lane),2137,83,3.88,Acceptable
+2025-04-01,Bridlington Hospital,1586,61,3.85,Acceptable
+2025-04-01,Practice Plus Group Surgical Centre - St Marys Portsmouth,5431,208,3.83,Acceptable
+2025-04-01,North East London NHS Foundation Trust,1730,63,3.64,Acceptable
+2025-04-01,Hertfordshire Community NHS Trust,1182,37,3.13,Acceptable
+2025-04-01,Central London Community Healthcare NHS Trust,12931,391,3.02,Acceptable
+2025-04-01,Moorfields Eye Hospital NHS Foundation Trust,5987,173,2.89,Acceptable
+2025-04-01,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,2866,70,2.44,Acceptable
+2025-04-01,Woking Walk In Centre,2528,58,2.29,Acceptable
+2025-04-01,Lincolnshire Community Health Services NHS Trust,8540,187,2.19,Acceptable
+2025-04-01,Ashford Walk-In-Centre,2333,49,2.10,Acceptable
+2025-04-01,Gloucestershire Health And Care NHS Foundation Trust,8409,170,2.02,Acceptable
+2025-04-01,Derbyshire Community Health Services NHS Foundation Trust,9729,175,1.80,Acceptable
+2025-04-01,Urgent Care Centre (Qms),8177,133,1.63,Acceptable
+2025-04-01,Mersey Care NHS Foundation Trust,13070,194,1.48,Acceptable
+2025-04-01,South Western Ambulance Service NHS Foundation Trust,1905,26,1.36,Acceptable
+2025-04-01,Phl Lymington Utc,3309,42,1.27,Acceptable
+2025-04-01,Beckenham Beacon Ucc,4000,49,1.23,Acceptable
+2025-04-01,Sussex Community NHS Foundation Trust,11779,132,1.12,Acceptable
+2025-04-01,Queen Victoria Hospital NHS Foundation Trust,1450,15,1.03,Acceptable
+2025-04-01,Practice Plus Group Hospital - Southampton,5503,54,0.98,Acceptable
+2025-04-01,Berkshire Healthcare NHS Foundation Trust,1472,10,0.68,Acceptable
+2025-04-01,Paulton Memorial Hospital,913,5,0.55,Acceptable
+2025-04-01,Barking Hospital Utc,2768,13,0.47,Acceptable
+2025-04-01,Goole & District Hospital,1675,7,0.42,Acceptable
+2025-04-01,Harold Wood Polyclinic Utc,2491,10,0.40,Acceptable
+2025-04-01,Local Care Direct,2413,9,0.37,Acceptable
+2025-04-01,Skelmersdale Walk In Centre,1730,6,0.35,Acceptable
+2025-04-01,Kent Community Health NHS Foundation Trust,9195,31,0.34,Acceptable
+2025-04-01,Loughborough Urgent Care Centre,7638,25,0.33,Acceptable
+2025-04-01,Shropshire Community Health NHS Trust,3041,5,0.16,Acceptable
+2025-04-01,Llr Ea - The Merlyn Vaz Health & Social Care Centre,2373,1,0.04,Acceptable
+2025-04-01,Melton Mowbray,464,0,0.00,Acceptable
+2025-04-01,Whitstable Medical Practice,4951,0,0.00,Acceptable
+2025-04-01,Oadby,2806,0,0.00,Acceptable
+2025-04-01,Oakham,460,0,0.00,Acceptable
+2025-04-01,Latham House Medical Practice,338,0,0.00,Acceptable
+2025-04-01,Sleaford Medical Group,480,0,0.00,Acceptable
+2025-04-01,South Birmingham GP Walk In Centre,6628,0,0.00,Acceptable
+2025-04-01,Summerfield Urgent Care Centre,3055,0,0.00,Acceptable
+2025-04-01,Reading Urgent Care Centre,2244,0,0.00,Acceptable
+2025-04-01,Okehampton Medical Centre,77,0,0.00,Acceptable
+2025-04-01,Humber Teaching NHS Foundation Trust,1185,0,0.00,Acceptable
+2025-04-01,Station Plaza Health Centre,1209,0,0.00,Acceptable
+2025-04-01,The Pinn Unregistered Wic,889,0,0.00,Acceptable
+2025-04-01,Workington Health Limited,361,0,0.00,Acceptable
+2025-04-01,Assura Vertis Urgent Care Centres (Birmingham),3148,0,0.00,Acceptable
+2025-04-01,Badger Ltd,1409,0,0.00,Acceptable
+2025-04-01,First Community Health And Care Cic,2350,0,0.00,Acceptable
+2025-04-01,Miriam Minor Emergency,1583,0,0.00,Acceptable
+2025-04-01,Brighton Station Health Centre,2001,0,0.00,Acceptable
+2025-04-01,Tetbury Hospital Trust Ltd,536,0,0.00,Acceptable
+2025-04-01,Rossendale Miu & Ooh,1108,0,0.00,Acceptable
+2025-04-01,Dhu Health Care C.I.C,1994,0,0.00,Acceptable
+2025-04-01,Erdington GP Health & Wellbeing Wic,2022,0,0.00,Acceptable
+2025-04-01,Putnoe Walk In Centre,2729,0,0.00,Acceptable
+2025-04-01,Market Harborough,566,0,0.00,Acceptable
+2025-04-01,Market Harborough Med.Ctr,266,0,0.00,Acceptable
