@@ -1000,7 +1000,7 @@
             <target field='[federated.1416n4408now4c16wt6010ohc67t].[my:month:ok]' />
           </filter>
           <filter class='categorical' column='[federated.1416n4408now4c16wt6010ohc67t].[none:perfomance_flag:nk]' filter-group='3'>
-            <groupfilter function='member' level='[none:perfomance_flag:nk]' member='&quot;Critical&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='level-members' level='[none:perfomance_flag:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1416n4408now4c16wt6010ohc67t].[none:provider_name:nk]'>
             <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
@@ -1328,7 +1328,7 @@
             <target field='[federated.1416n4408now4c16wt6010ohc67t].[my:month:ok]' />
           </filter>
           <filter class='categorical' column='[federated.1416n4408now4c16wt6010ohc67t].[none:perfomance_flag:nk]' filter-group='3'>
-            <groupfilter function='member' level='[none:perfomance_flag:nk]' member='&quot;Critical&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='level-members' level='[none:perfomance_flag:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1416n4408now4c16wt6010ohc67t].[none:provider_name:nk]'>
             <groupfilter function='level-members' level='[none:provider_name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -1401,7 +1401,16 @@
             </format>
             <format attr='title' field='[federated.1416n4408now4c16wt6010ohc67t].[none:perfomance_flag:nk]' value='Perfomance &#10;Flag.'>
               <formatted-text>
-                <run fontalignment='1'>Perfomance &#10;Flag.</run>
+                <run bold='true' fontalignment='1' fontname='Times New Roman'>Perfomance </run>
+                <run fontalignment='1'>Æ&#10;</run>
+                <run bold='true' fontalignment='1' fontname='Times New Roman'>Flag.</run>
+              </formatted-text>
+            </format>
+            <format attr='title' field='[federated.1416n4408now4c16wt6010ohc67t].[none:provider_name:nk]' value='Trusts&#10;search bar.'>
+              <formatted-text>
+                <run bold='true' fontalignment='1' fontname='Times New Roman'>Trusts</run>
+                <run fontalignment='1'>Æ&#10;</run>
+                <run bold='true' fontalignment='1' fontname='Times New Roman'>search bar.</run>
               </formatted-text>
             </format>
           </style-rule>
@@ -1524,9 +1533,9 @@
             <format attr='font-weight' field='[federated.0hz31lc0td6d5j12bksgc0e9eltx].[sum:pct_breached:qk]' value='bold' />
           </style-rule>
           <style-rule element='quick-filter'>
-            <format attr='title' field='[federated.0hz31lc0td6d5j12bksgc0e9eltx].[my:month:ok]' value='Month, Year of Month'>
+            <format attr='title' field='[federated.0hz31lc0td6d5j12bksgc0e9eltx].[my:month:ok]' value='Month, Year o'>
               <formatted-text>
-                <run fontalignment='1' fontname='Times New Roman'>Month, Year of Month</run>
+                <run fontalignment='1' fontname='Times New Roman'>Month, Year o</run>
               </formatted-text>
             </format>
           </style-rule>
@@ -2061,7 +2070,7 @@
           <zoom type='fit-height' />
         </viewpoint>
       </viewpoints>
-      <active id='15' />
+      <active id='11' />
       <simple-id uuid='{E82F49D7-4452-4ED1-9047-6D1CA4F93B57}' />
     </window>
   </windows>
