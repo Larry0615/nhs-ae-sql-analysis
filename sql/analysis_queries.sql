@@ -102,7 +102,8 @@ select
 	admissions
 from nhs_ae_data 
 where over_4hr_waits is not null 
-	and total_attendances is not null;
+	and total_attendances is not null
+;
 	
 -- Key performance indicators(KPI)
 -- 198 total providers is inclusive of providers with null pct_with_4hrs and zero total attendances

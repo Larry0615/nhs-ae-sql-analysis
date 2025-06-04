@@ -66,7 +66,7 @@ from nhs_ae_data
 where total_attendances > 0 -- Excluding rows where total_attendances = 0 to avoid NULL % values
 order by month, pct_breached desc;
 	
-	
+
 	
 
 
